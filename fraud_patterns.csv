@@ -1,0 +1,16 @@
+pattern,size,support_in_fraud,claims_matching,fraud_rate_when_present,lift
+text: missing documents + text: cash/urgent demand,2,0.113,54,0.759,12.52
+coverage changed recently + text: missing documents,2,0.129,97,0.485,7.99
+no police report + no witnesses + text: missing documents,3,0.118,91,0.473,7.79
+no police report + theft/fire claim + text: missing documents,3,0.102,89,0.416,6.85
+no police report + text: cash/urgent demand,2,0.173,170,0.371,6.11
+no witnesses + text: missing documents,2,0.234,230,0.37,6.09
+theft/fire claim + text: cash/urgent demand,2,0.107,109,0.358,5.9
+theft/fire claim + text: missing documents,2,0.192,196,0.357,5.89
+night incident + text: missing documents,2,0.176,180,0.356,5.86
+night incident + text: cash/urgent demand,2,0.102,105,0.352,5.81
+no police report + text: missing documents,2,0.286,314,0.331,5.46
+text: total loss + text: no witnesses mentioned,2,0.146,198,0.268,4.41
+coverage changed recently + no witnesses,2,0.102,215,0.172,2.84
+coverage changed recently + no police report,2,0.132,305,0.157,2.59
+night incident + theft/fire claim,2,0.135,363,0.135,2.23

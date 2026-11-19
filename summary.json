@@ -1,0 +1,34 @@
+{
+  "best_model": "Gradient Boosting",
+  "threshold": 0.772,
+  "metrics": {
+    "threshold": 0.772,
+    "roc_auc": 0.9607,
+    "pr_auc": 0.6147,
+    "precision": 0.5426,
+    "recall": 0.6986,
+    "f1": 0.6108,
+    "tp": 51.0,
+    "fp": 43.0,
+    "fn": 22.0,
+    "tn": 1084.0
+  },
+  "baseline_pr_auc": 0.0608,
+  "top_features": {
+    "claim_description": 0.4833,
+    "text_flag_count": 0.277,
+    "incident_hour": 0.0395,
+    "claim_type": 0.0155,
+    "customer_age": 0.0127,
+    "customer_claim_count": 0.0119,
+    "coverage_changed_recently": 0.0099,
+    "num_witnesses": 0.0074,
+    "month": 0.0061,
+    "amount_to_coverage": 0.0038,
+    "police_report_filed": 0.0034,
+    "desc_length": 0.0032,
+    "region": 0.0031,
+    "report_delay_days": 0.0013,
+    "policy_coverage": 0.0008
+  }
+}

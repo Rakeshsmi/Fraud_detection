@@ -1,0 +1,1201 @@
+claim_id,customer_id,claim_type,claim_amount,fraud_probability,risk_level,predicted_fraud,reasons,actual_fraud
+CLM102600,3589,auto,6280.96,0.9892,HIGH,1,Reported > 14 days after incident; Coverage changed recently; No police report; No witnesses; Multiple previous claims (>=3); Suspicious wording in description,1
+CLM100852,3889,theft,34117.96,0.9829,HIGH,1,No police report; No witnesses; Suspicious wording in description,1
+CLM103819,3679,auto,10955.77,0.9826,HIGH,1,No witnesses; Multiple previous claims (>=3); Suspicious wording in description,0
+CLM104112,1453,auto,6233.78,0.9798,HIGH,1,Reported > 14 days after incident; Suspicious wording in description,1
+CLM105596,2601,health,10401.16,0.9772,HIGH,1,Suspicious wording in description,1
+CLM104806,2403,fire,25785.42,0.9729,HIGH,1,No police report; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM101275,3139,auto,6902.07,0.9721,HIGH,1,No police report; Suspicious wording in description,1
+CLM102469,1642,home,12390.83,0.9717,HIGH,1,Reported > 14 days after incident; No police report; Multiple previous claims (>=3); Suspicious wording in description,1
+CLM102626,3936,health,8832.42,0.9686,HIGH,1,No witnesses; Suspicious wording in description,0
+CLM101372,2349,auto,7560.6,0.9683,HIGH,1,Suspicious wording in description,1
+CLM104657,2720,auto,9830.66,0.9681,HIGH,1,New customer (< 12 months); No police report; Suspicious wording in description,0
+CLM101159,2021,home,8519.97,0.9673,HIGH,1,No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM104798,2172,auto,13413.52,0.9669,HIGH,1,No police report; No witnesses; Suspicious wording in description,1
+CLM100057,1462,auto,10703.99,0.9664,HIGH,1,New customer (< 12 months); No police report; No witnesses; Suspicious wording in description,0
+CLM104689,3171,auto,5178.57,0.9647,HIGH,1,Coverage changed recently; No police report; Suspicious wording in description,1
+CLM103351,3815,fire,9585.36,0.9628,HIGH,1,No witnesses; Suspicious wording in description,1
+CLM101704,3759,home,20560.4,0.9601,HIGH,1,New customer (< 12 months); Coverage changed recently; No police report; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM101199,2861,auto,12494.96,0.9583,HIGH,1,Suspicious wording in description,0
+CLM104180,2959,auto,14106.77,0.957,HIGH,1,Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM103051,1525,home,14507.38,0.9565,HIGH,1,No police report; No witnesses; Suspicious wording in description,1
+CLM100295,2562,theft,11254.12,0.953,HIGH,1,Coverage changed recently; No police report,1
+CLM100684,1508,theft,16207.11,0.9519,HIGH,1,No police report; Incident at night (23:00-04:59),0
+CLM102232,3815,theft,8420.98,0.9519,HIGH,1,No police report; No witnesses; Incident at night (23:00-04:59),1
+CLM104102,1570,auto,6224.44,0.9508,HIGH,1,No police report; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM101009,2560,health,3368.96,0.9502,HIGH,1,Coverage changed recently; No police report; No witnesses; Multiple previous claims (>=3); Suspicious wording in description,1
+CLM100902,1657,auto,4540.82,0.9467,HIGH,1,Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM102649,1992,auto,20738.3,0.9455,HIGH,1,No police report; Suspicious wording in description,0
+CLM103388,1868,home,45064.96,0.9418,HIGH,1,Claim amount > 60% of coverage; No witnesses; Incident at night (23:00-04:59); Multiple previous claims (>=3),1
+CLM101225,3909,home,6316.56,0.9395,HIGH,1,Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM105952,1582,fire,16672.29,0.9369,HIGH,1,No police report; Multiple previous claims (>=3); Suspicious wording in description,0
+CLM100039,2894,auto,13913.62,0.936,HIGH,1,No police report,0
+CLM100147,1701,auto,1810.74,0.9355,HIGH,1,Suspicious wording in description,1
+CLM105116,1766,auto,11092.91,0.9315,HIGH,1,No police report,1
+CLM102283,3362,fire,24198.9,0.9312,HIGH,1,No police report; No witnesses; Suspicious wording in description,0
+CLM102156,2328,auto,3837.67,0.931,HIGH,1,No witnesses; Incident at night (23:00-04:59),0
+CLM104955,1579,home,14706.06,0.9272,HIGH,1,Coverage changed recently; No police report; No witnesses,1
+CLM100649,3545,theft,35010.33,0.923,HIGH,1,Claim amount > 60% of coverage; No police report; Suspicious wording in description,0
+CLM104718,2203,auto,27114.06,0.9226,HIGH,1,No police report; Suspicious wording in description,1
+CLM103308,1070,auto,18005.3,0.9223,HIGH,1,Suspicious wording in description,0
+CLM100942,3741,home,6045.89,0.9211,HIGH,1,No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM104791,3973,health,14708.63,0.9209,HIGH,1,Suspicious wording in description,1
+CLM100265,2743,fire,21781.52,0.9204,HIGH,1,Reported > 14 days after incident; Coverage changed recently; No witnesses; Incident at night (23:00-04:59),1
+CLM102611,3782,health,17636.35,0.9153,HIGH,1,Coverage changed recently; No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM102014,2942,auto,10657.785,0.9147,HIGH,1,No police report; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM102423,3479,home,7036.78,0.9119,HIGH,1,No witnesses; Incident at night (23:00-04:59),0
+CLM101888,1184,fire,60082.43,0.9117,HIGH,1,No police report; No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM100985,2957,health,53980.6,0.9097,HIGH,1,No rule triggered,0
+CLM102120,3307,theft,5532.05,0.908,HIGH,1,No police report; No witnesses; Suspicious wording in description,1
+CLM100350,2599,home,12170.99,0.9072,HIGH,1,Suspicious wording in description,1
+CLM101847,2627,fire,6405.32,0.903,HIGH,1,Suspicious wording in description,1
+CLM105342,2700,theft,9750.57,0.9021,HIGH,1,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM105453,3354,auto,3949.43,0.9,HIGH,1,New customer (< 12 months); Incident at night (23:00-04:59),1
+CLM100279,1248,theft,17302.9,0.8999,HIGH,1,No witnesses; Suspicious wording in description,1
+CLM101508,3589,home,14060.97,0.8971,HIGH,1,Suspicious wording in description,0
+CLM100490,3799,theft,30339.53,0.8908,HIGH,1,No witnesses; Suspicious wording in description,1
+CLM100562,2479,theft,6704.9,0.8904,HIGH,1,No rule triggered,1
+CLM104223,2599,home,17988.3,0.8881,HIGH,1,New customer (< 12 months); No witnesses,1
+CLM102659,1481,home,23885.24,0.8869,HIGH,1,No police report; Suspicious wording in description,1
+CLM100820,1071,home,27631.12,0.8821,HIGH,1,Coverage changed recently; No police report; No witnesses; Multiple previous claims (>=3),1
+CLM105439,2669,home,13574.7,0.8781,HIGH,1,No police report,0
+CLM100136,2808,theft,3035.17,0.8775,HIGH,1,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM105887,1505,fire,6913.07,0.8699,HIGH,1,No police report; Suspicious wording in description,1
+CLM102027,3850,auto,21564.89,0.868,HIGH,1,Coverage changed recently; No police report; No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM101478,1691,home,12163.13,0.8664,HIGH,1,No police report; Suspicious wording in description,0
+CLM100274,2254,fire,3614.33,0.8648,HIGH,1,No police report; Suspicious wording in description,0
+CLM103656,2543,theft,24600.11,0.8638,HIGH,1,Suspicious wording in description,0
+CLM104048,2007,fire,11570.5,0.8628,HIGH,1,Coverage changed recently; No witnesses; Multiple previous claims (>=3),1
+CLM105875,1257,theft,8641.6,0.8518,HIGH,1,No rule triggered,0
+CLM105214,3411,auto,20776.42,0.8495,HIGH,1,New customer (< 12 months); No police report; Incident at night (23:00-04:59),0
+CLM101655,1693,auto,4302.56,0.8455,HIGH,1,No police report,0
+CLM102942,3289,auto,5044.54,0.8418,HIGH,1,New customer (< 12 months); No police report; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM103402,1470,theft,19291.37,0.8415,HIGH,1,No witnesses; Multiple previous claims (>=3),1
+CLM101803,1778,auto,22774.72,0.84,HIGH,1,Incident at night (23:00-04:59),0
+CLM101494,2230,theft,4128.53,0.84,HIGH,1,Coverage changed recently; No police report; No witnesses,1
+CLM102801,2335,health,37294.19,0.8374,HIGH,1,Claim amount > 60% of coverage; Incident at night (23:00-04:59),1
+CLM100104,3390,auto,2242.82,0.828,HIGH,1,No rule triggered,0
+CLM100726,3163,auto,31288.1,0.8262,HIGH,1,Claim amount > 60% of coverage; Multiple previous claims (>=3),0
+CLM101245,3956,auto,61506.06,0.8224,HIGH,1,Claim amount > 60% of coverage; No police report; No witnesses; Suspicious wording in description,1
+CLM101911,3663,home,2511.08,0.8202,HIGH,1,Suspicious wording in description,0
+CLM105375,3014,theft,15890.57,0.8171,HIGH,1,Suspicious wording in description,0
+CLM102645,1016,fire,8236.51,0.8122,HIGH,1,No witnesses; Suspicious wording in description,0
+CLM102490,2026,home,12128.8,0.8084,HIGH,1,No witnesses,0
+CLM104091,1127,auto,11995.73,0.8073,HIGH,1,No witnesses,0
+CLM100126,1237,health,4825.06,0.8061,HIGH,1,No police report,1
+CLM101252,1222,home,12489.83,0.8045,HIGH,1,No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM101522,1574,theft,18337.09,0.796,HIGH,1,New customer (< 12 months); Coverage changed recently; No witnesses; Incident at night (23:00-04:59),0
+CLM103049,3124,fire,33257.11,0.7897,HIGH,1,Claim amount > 60% of coverage; No witnesses,1
+CLM105143,2672,theft,15203.83,0.7861,HIGH,1,No police report; No witnesses; Suspicious wording in description,0
+CLM105162,1860,home,28750.9,0.7853,HIGH,1,No rule triggered,0
+CLM100641,3749,theft,7066.13,0.7839,HIGH,1,Coverage changed recently; No police report; No witnesses; Suspicious wording in description,0
+CLM100555,2513,auto,10657.785,0.7835,HIGH,1,New customer (< 12 months); No police report; Suspicious wording in description,1
+CLM103787,1063,health,3739.68,0.7799,HIGH,1,Coverage changed recently; Suspicious wording in description,0
+CLM101173,1532,auto,1510.2,0.7792,HIGH,1,No police report; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM100621,2433,theft,7219.25,0.7755,HIGH,1,No police report,0
+CLM105356,3084,auto,8664.22,0.771,MEDIUM,0,Coverage changed recently,0
+CLM104462,2765,fire,25043.25,0.7627,MEDIUM,0,Coverage changed recently; No police report; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM103552,3816,fire,10176.49,0.7571,MEDIUM,0,No police report; Suspicious wording in description,0
+CLM104140,3178,home,12981.29,0.7433,MEDIUM,0,No police report; Suspicious wording in description,0
+CLM102988,3710,home,3906.07,0.7432,MEDIUM,0,Incident at night (23:00-04:59),0
+CLM101218,3427,home,25685.69,0.7429,MEDIUM,0,No police report; Multiple previous claims (>=3),1
+CLM102938,3707,health,7541.35,0.7424,MEDIUM,0,Suspicious wording in description,0
+CLM103531,1213,auto,7233.64,0.738,MEDIUM,0,No rule triggered,0
+CLM105797,2869,auto,23320.77,0.7352,MEDIUM,0,No police report; No witnesses,0
+CLM101030,2462,health,10657.785,0.7287,MEDIUM,0,No police report,0
+CLM103384,3394,health,8982.68,0.7268,MEDIUM,0,No police report,0
+CLM105249,2713,auto,19168.99,0.726,MEDIUM,0,New customer (< 12 months); Reported > 14 days after incident; No witnesses,0
+CLM102500,3098,home,4334.57,0.7259,MEDIUM,0,No police report; No witnesses; Multiple previous claims (>=3),0
+CLM104901,2972,auto,16225.34,0.7239,MEDIUM,0,No police report; No witnesses,0
+CLM103916,1200,home,8959.86,0.7228,MEDIUM,0,No police report; No witnesses; Suspicious wording in description,1
+CLM105055,3707,auto,7828.64,0.7194,MEDIUM,0,Coverage changed recently; Suspicious wording in description,0
+CLM104644,1079,home,3960.28,0.7085,MEDIUM,0,No police report; Suspicious wording in description,0
+CLM101738,1009,auto,19224.86,0.707,MEDIUM,0,No rule triggered,0
+CLM101827,3953,health,7093.19,0.7039,MEDIUM,0,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM104908,3395,health,6333.33,0.7019,MEDIUM,0,No police report; Suspicious wording in description,0
+CLM103411,3959,fire,10657.785,0.6998,MEDIUM,0,No police report,0
+CLM100405,2502,health,8259.48,0.6924,MEDIUM,0,No rule triggered,1
+CLM103728,2022,health,7997.66,0.6895,MEDIUM,0,No rule triggered,0
+CLM103436,1882,theft,20673.55,0.6861,MEDIUM,0,No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM105167,1583,health,33152.85,0.6841,MEDIUM,0,Claim amount > 60% of coverage,1
+CLM105166,3166,fire,12371.72,0.6839,MEDIUM,0,No police report; Incident at night (23:00-04:59),0
+CLM102780,1932,theft,9839.49,0.6787,MEDIUM,0,No police report; No witnesses,0
+CLM100991,2647,health,22246.76,0.6635,MEDIUM,0,No police report; No witnesses,0
+CLM100074,3059,fire,16289.93,0.6627,MEDIUM,0,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM105270,1554,theft,1979.32,0.6581,MEDIUM,0,New customer (< 12 months); Coverage changed recently; Incident at night (23:00-04:59); Suspicious wording in description,1
+CLM105423,1741,home,57322.54,0.6545,MEDIUM,0,Coverage changed recently; No witnesses; Incident at night (23:00-04:59),0
+CLM101587,1234,auto,2984.75,0.6525,MEDIUM,0,No witnesses; Suspicious wording in description,0
+CLM104772,1531,theft,14244.25,0.6509,MEDIUM,0,No rule triggered,0
+CLM103124,2323,auto,16202.57,0.6461,MEDIUM,0,Reported > 14 days after incident; Suspicious wording in description,0
+CLM103187,2208,auto,12062.9,0.6441,MEDIUM,0,No rule triggered,0
+CLM105093,3909,health,43896.41,0.6323,MEDIUM,0,No witnesses,0
+CLM103014,2469,home,9737.3,0.6194,MEDIUM,0,Incident at night (23:00-04:59); Multiple previous claims (>=3); Suspicious wording in description,0
+CLM101248,1975,auto,36419.98,0.6192,MEDIUM,0,Claim amount > 60% of coverage,0
+CLM102134,2321,health,4536.15,0.6158,MEDIUM,0,Coverage changed recently; Incident at night (23:00-04:59),0
+CLM101810,1734,theft,18928.14,0.604,MEDIUM,0,New customer (< 12 months),0
+CLM100260,3380,health,8275.51,0.5989,MEDIUM,0,No police report; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM102078,1775,auto,17765.12,0.5916,MEDIUM,0,No police report; Suspicious wording in description,0
+CLM103919,2841,auto,22247.63,0.5913,MEDIUM,0,No police report,1
+CLM100485,1697,auto,23430.6,0.5846,MEDIUM,0,No police report; Suspicious wording in description,1
+CLM103085,2082,fire,4061.97,0.5593,MEDIUM,0,No police report; No witnesses,0
+CLM101051,2094,theft,18369.87,0.559,MEDIUM,0,Incident at night (23:00-04:59),0
+CLM104536,1242,home,10178.2,0.5477,MEDIUM,0,New customer (< 12 months); No witnesses; Incident at night (23:00-04:59),0
+CLM102820,2622,auto,10352.01,0.5363,MEDIUM,0,No police report; Incident at night (23:00-04:59),0
+CLM104274,1099,theft,878.69,0.53,MEDIUM,0,No police report; Multiple previous claims (>=3),0
+CLM105290,3485,theft,3323.84,0.5292,MEDIUM,0,Coverage changed recently,0
+CLM105345,2195,theft,16471.86,0.5292,MEDIUM,0,Suspicious wording in description,1
+CLM101672,1803,health,12159.99,0.5226,MEDIUM,0,Suspicious wording in description,1
+CLM100733,3322,auto,17561.34,0.5197,MEDIUM,0,Coverage changed recently; Suspicious wording in description,1
+CLM103955,3827,health,16167.88,0.5142,MEDIUM,0,Incident at night (23:00-04:59),0
+CLM100617,1799,auto,6008.11,0.4998,MEDIUM,0,No police report; No witnesses,0
+CLM104910,3840,theft,13742.84,0.4989,MEDIUM,0,No police report,0
+CLM104858,1786,health,20464.75,0.4951,MEDIUM,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM100021,2112,auto,51556.33,0.4909,MEDIUM,0,No police report; No witnesses,0
+CLM103516,1508,auto,1238.6,0.4885,MEDIUM,0,No police report,0
+CLM103111,3289,auto,8827.29,0.4876,MEDIUM,0,No witnesses; Incident at night (23:00-04:59),0
+CLM103551,2566,auto,18720.21,0.4864,MEDIUM,0,New customer (< 12 months); No police report; Incident at night (23:00-04:59),0
+CLM101376,3887,auto,40665.15,0.4795,MEDIUM,0,Incident at night (23:00-04:59),0
+CLM105188,3454,auto,59675.28,0.4738,MEDIUM,0,Coverage changed recently; Incident at night (23:00-04:59),0
+CLM105371,3217,health,34210.72,0.4733,MEDIUM,0,Claim amount > 60% of coverage; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM101254,2949,home,6864.67,0.4697,MEDIUM,0,Coverage changed recently; No witnesses; Suspicious wording in description,1
+CLM102506,2379,health,1554.79,0.4609,MEDIUM,0,No police report,0
+CLM100172,3314,theft,21364.19,0.4404,MEDIUM,0,No police report,0
+CLM101182,3072,fire,8204.79,0.4374,MEDIUM,0,No police report,0
+CLM103325,3348,auto,2269.03,0.4315,MEDIUM,0,Suspicious wording in description,0
+CLM102485,2082,fire,16406.27,0.4212,MEDIUM,0,No police report; Incident at night (23:00-04:59),0
+CLM102859,2338,home,27103.66,0.4207,MEDIUM,0,No police report; No witnesses,0
+CLM103646,2926,health,7690.23,0.4157,MEDIUM,0,No police report,0
+CLM100586,3068,auto,6337.43,0.4138,MEDIUM,0,Coverage changed recently,0
+CLM101735,3394,auto,42134.61,0.4137,MEDIUM,0,No police report; No witnesses,0
+CLM101516,2447,fire,19996.44,0.4131,MEDIUM,0,No police report; Multiple previous claims (>=3),1
+CLM103670,1432,auto,61453.02,0.4035,MEDIUM,0,Claim amount > 60% of coverage; Suspicious wording in description,1
+CLM101430,2410,health,20247.85,0.4035,MEDIUM,0,No police report,0
+CLM104218,2580,health,33462.49,0.403,MEDIUM,0,Incident at night (23:00-04:59),0
+CLM101641,1151,auto,12195.04,0.401,MEDIUM,0,New customer (< 12 months); No witnesses,0
+CLM101710,2027,home,18724.81,0.3913,MEDIUM,0,No witnesses,0
+CLM105805,1447,home,26422.28,0.3863,MEDIUM,0,No police report; Suspicious wording in description,0
+CLM102198,2712,theft,61690.41,0.3841,LOW,0,Claim amount > 60% of coverage,0
+CLM101352,2487,home,5223.98,0.373,LOW,0,No police report; No witnesses,0
+CLM104203,1392,health,6841.44,0.3628,LOW,0,Incident at night (23:00-04:59),0
+CLM105419,2928,health,10840.18,0.3627,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM103537,1397,fire,22647.02,0.3573,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM104417,1468,theft,8836.57,0.3548,LOW,0,New customer (< 12 months); No witnesses,0
+CLM103535,1222,home,9400.95,0.3538,LOW,0,No police report,0
+CLM101982,1162,theft,31181.8,0.352,LOW,0,Claim amount > 60% of coverage; No witnesses; Incident at night (23:00-04:59),0
+CLM103617,2227,home,15545.45,0.3496,LOW,0,No rule triggered,0
+CLM100345,1767,auto,6032.61,0.345,LOW,0,Incident at night (23:00-04:59),0
+CLM102904,2955,auto,14079.24,0.3374,LOW,0,No police report,0
+CLM104285,3300,theft,4302.48,0.3362,LOW,0,No police report; No witnesses,0
+CLM104964,3834,theft,27648.18,0.3361,LOW,0,No police report,0
+CLM102286,3718,home,6998.97,0.3285,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM100137,1092,fire,15710.06,0.3261,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM105714,3871,fire,46058.76,0.3221,LOW,0,Coverage changed recently; No police report,0
+CLM102648,3808,theft,4614.1,0.3195,LOW,0,Reported > 14 days after incident,0
+CLM105222,3763,home,6971.94,0.3158,LOW,0,No police report; No witnesses,0
+CLM105512,3718,health,9982.53,0.3146,LOW,0,No rule triggered,0
+CLM101117,2759,fire,6667.86,0.3114,LOW,0,No police report,1
+CLM102495,1616,auto,45251.39,0.2975,LOW,0,Claim amount > 60% of coverage; No witnesses,0
+CLM104602,1939,home,4583.77,0.2972,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM102941,3810,auto,17330.87,0.2943,LOW,0,No witnesses,0
+CLM104895,2212,home,1658.94,0.2913,LOW,0,No rule triggered,0
+CLM105963,1834,home,4296.07,0.2831,LOW,0,No police report,0
+CLM101589,1089,fire,17434.97,0.2789,LOW,0,No rule triggered,0
+CLM104119,1155,home,31475.06,0.2729,LOW,0,Multiple previous claims (>=3),0
+CLM103723,3980,home,13297.34,0.2718,LOW,0,No witnesses,0
+CLM101990,2593,theft,21893.93,0.2702,LOW,0,No rule triggered,0
+CLM101664,2575,auto,4372.35,0.2667,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59),1
+CLM101326,3037,theft,16896.85,0.2624,LOW,0,Incident at night (23:00-04:59),0
+CLM101115,2470,health,2648.69,0.2604,LOW,0,Incident at night (23:00-04:59),0
+CLM103131,2382,theft,4440.5,0.2597,LOW,0,No rule triggered,0
+CLM103077,3445,auto,12511.03,0.2564,LOW,0,No police report,0
+CLM102839,3915,auto,22653.84,0.2559,LOW,0,Coverage changed recently; Multiple previous claims (>=3),0
+CLM104627,1542,auto,10657.785,0.2551,LOW,0,New customer (< 12 months); No police report; Incident at night (23:00-04:59),0
+CLM100610,3501,auto,40312.66,0.2528,LOW,0,No rule triggered,0
+CLM101261,3774,health,2761.84,0.2516,LOW,0,No rule triggered,0
+CLM101850,1245,home,18101.15,0.2503,LOW,0,No police report; No witnesses; Suspicious wording in description,0
+CLM103405,2056,home,5317.72,0.2496,LOW,0,No witnesses; Incident at night (23:00-04:59),1
+CLM102132,2558,home,3990.94,0.2479,LOW,0,Multiple previous claims (>=3),0
+CLM102180,3099,health,14691.8,0.2463,LOW,0,No witnesses; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM103010,2107,health,6172.58,0.2447,LOW,0,New customer (< 12 months); No police report,0
+CLM104796,2511,health,1241.5,0.2443,LOW,0,Coverage changed recently,0
+CLM103861,2932,theft,16807.45,0.2402,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM105986,3741,auto,62219.95,0.2375,LOW,0,Claim amount > 60% of coverage,0
+CLM102101,3003,theft,35673.92,0.2324,LOW,0,New customer (< 12 months); No witnesses,0
+CLM100897,1163,auto,16850.49,0.2318,LOW,0,No rule triggered,0
+CLM104106,1308,fire,5644.96,0.2277,LOW,0,No witnesses,0
+CLM103067,3115,auto,19222.5,0.2256,LOW,0,No police report,0
+CLM101109,1133,home,9929.94,0.2193,LOW,0,No police report; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM102503,1322,home,5980.64,0.2128,LOW,0,No rule triggered,0
+CLM102761,2293,home,4126.49,0.2083,LOW,0,Suspicious wording in description,0
+CLM100237,2296,auto,20891.7,0.2051,LOW,0,No rule triggered,0
+CLM104305,3310,theft,6716.16,0.2049,LOW,0,No police report,0
+CLM103115,2493,fire,9764.04,0.2026,LOW,0,No police report; No witnesses,0
+CLM101112,1577,home,2215.48,0.1957,LOW,0,Coverage changed recently; No police report,0
+CLM100366,2408,fire,5211.17,0.1947,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM101734,3583,home,31996.6,0.1921,LOW,0,No rule triggered,0
+CLM101337,1889,health,9646.8,0.1899,LOW,0,Reported > 14 days after incident; No police report,0
+CLM101917,2471,auto,4917.14,0.189,LOW,0,Reported > 14 days after incident; No police report; Multiple previous claims (>=3); Suspicious wording in description,0
+CLM103340,2624,auto,10016.56,0.1878,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM101180,2823,auto,14137.97,0.1872,LOW,0,New customer (< 12 months); Coverage changed recently; No witnesses; Incident at night (23:00-04:59),0
+CLM101699,3884,health,13081.22,0.1871,LOW,0,Reported > 14 days after incident; Suspicious wording in description,0
+CLM103016,2597,home,10597.92,0.1868,LOW,0,No rule triggered,0
+CLM104127,1272,home,10340.96,0.1807,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),0
+CLM105312,1626,theft,10657.785,0.1791,LOW,0,Reported > 14 days after incident,0
+CLM103798,1030,theft,18863.41,0.1763,LOW,0,No police report,0
+CLM105438,2268,auto,10444.52,0.1693,LOW,0,No rule triggered,0
+CLM103496,1308,auto,43164.74,0.1639,LOW,0,Claim amount > 60% of coverage; Incident at night (23:00-04:59),1
+CLM103028,1673,theft,10920.8,0.1618,LOW,0,No police report; Suspicious wording in description,0
+CLM100207,3907,auto,11425.42,0.1595,LOW,0,No witnesses,0
+CLM102148,3541,home,10919.16,0.1593,LOW,0,No police report; No witnesses,0
+CLM100452,2497,health,3186.87,0.1591,LOW,0,Multiple previous claims (>=3),0
+CLM101379,2622,theft,3983.05,0.1563,LOW,0,Coverage changed recently,0
+CLM105051,1452,theft,40692.18,0.1542,LOW,0,Reported > 14 days after incident; Coverage changed recently; No witnesses,0
+CLM102215,2170,health,2192.49,0.1518,LOW,0,No witnesses,0
+CLM103791,1531,home,11755.22,0.1503,LOW,0,Incident at night (23:00-04:59),0
+CLM104622,3479,auto,10645.48,0.1497,LOW,0,No police report; No witnesses,0
+CLM105083,2310,auto,40308.71,0.1483,LOW,0,Multiple previous claims (>=3),0
+CLM105194,2110,auto,13117.28,0.1482,LOW,0,Incident at night (23:00-04:59),0
+CLM101823,3630,auto,22362.41,0.1472,LOW,0,Reported > 14 days after incident; No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM103031,1817,auto,15957.22,0.1467,LOW,0,No rule triggered,0
+CLM103553,3138,health,13952.09,0.1464,LOW,0,No police report; No witnesses,0
+CLM103223,3327,theft,6320.25,0.1456,LOW,0,No rule triggered,0
+CLM100554,3953,health,12339.87,0.1454,LOW,0,Incident at night (23:00-04:59),0
+CLM103971,3780,fire,20157.09,0.1437,LOW,0,No police report; No witnesses,0
+CLM100969,1108,home,5943.26,0.1333,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM105949,2517,home,10682.04,0.1325,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59),0
+CLM104101,3962,health,18673.53,0.1289,LOW,0,Incident at night (23:00-04:59),0
+CLM105121,2853,theft,4077.74,0.1251,LOW,0,No rule triggered,0
+CLM104390,1541,home,11585.41,0.1243,LOW,0,No rule triggered,0
+CLM105745,1060,theft,4126.11,0.1241,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104466,3397,auto,13778.85,0.1168,LOW,0,No witnesses,0
+CLM102299,3679,auto,3259.76,0.1118,LOW,0,No police report,0
+CLM104941,2338,fire,19217.4,0.1019,LOW,0,No police report; No witnesses,0
+CLM100546,2287,auto,30066.26,0.1009,LOW,0,No rule triggered,0
+CLM100900,1013,theft,24040.84,0.0989,LOW,0,Coverage changed recently; No police report,0
+CLM105572,1716,theft,4765.67,0.0979,LOW,0,No police report,0
+CLM102240,1670,auto,16813.76,0.0976,LOW,0,No rule triggered,0
+CLM102433,1944,auto,11174.2,0.0963,LOW,0,No rule triggered,0
+CLM104780,3548,home,1589.04,0.094,LOW,0,New customer (< 12 months); Incident at night (23:00-04:59),0
+CLM103895,3788,theft,13574.29,0.0916,LOW,0,No rule triggered,0
+CLM103221,1759,fire,17760.53,0.0894,LOW,0,No witnesses,0
+CLM105370,3350,fire,25060.56,0.0893,LOW,0,No police report; No witnesses,0
+CLM103381,3360,fire,12903.72,0.0893,LOW,0,No rule triggered,0
+CLM101418,3582,theft,1197.68,0.0861,LOW,0,No rule triggered,1
+CLM104593,3185,home,45457.0,0.0854,LOW,0,Incident at night (23:00-04:59),0
+CLM105774,2477,auto,2068.15,0.0847,LOW,0,No rule triggered,0
+CLM105627,1119,health,7680.6,0.0844,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104139,2513,health,23961.32,0.0827,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM100127,3294,home,8288.2,0.0821,LOW,0,No rule triggered,0
+CLM101701,1535,fire,16026.1,0.0812,LOW,0,No rule triggered,0
+CLM104006,1754,auto,8104.05,0.0781,LOW,0,Suspicious wording in description,0
+CLM104676,2666,auto,10657.785,0.0757,LOW,0,No police report; No witnesses,0
+CLM105763,1280,fire,19055.05,0.0723,LOW,0,No rule triggered,0
+CLM100506,2593,theft,10657.785,0.072,LOW,0,Incident at night (23:00-04:59),0
+CLM100560,2609,theft,1548.34,0.0717,LOW,0,Incident at night (23:00-04:59),1
+CLM103598,1853,auto,10657.785,0.0717,LOW,0,No witnesses,0
+CLM101973,2024,auto,3736.42,0.0681,LOW,0,No witnesses,0
+CLM105484,2600,auto,18771.37,0.0676,LOW,0,No rule triggered,0
+CLM101924,2084,home,10657.785,0.0673,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104316,3936,auto,3543.12,0.0672,LOW,0,No police report,0
+CLM105420,3403,health,2255.01,0.0672,LOW,0,Coverage changed recently; No witnesses; Incident at night (23:00-04:59); Multiple previous claims (>=3),1
+CLM104779,1215,auto,1929.31,0.067,LOW,0,Reported > 14 days after incident,0
+CLM102481,3580,health,28613.18,0.0664,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM102411,1148,fire,5206.96,0.0645,LOW,0,No rule triggered,0
+CLM100716,2553,fire,2905.89,0.0642,LOW,0,No police report,0
+CLM102305,1288,theft,25976.23,0.064,LOW,0,No rule triggered,0
+CLM102946,2766,auto,8852.7,0.0629,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM101673,3275,health,18514.11,0.0626,LOW,0,No witnesses,0
+CLM104185,2715,auto,24442.98,0.0622,LOW,0,No police report; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM102405,3485,health,18243.15,0.0618,LOW,0,Suspicious wording in description,0
+CLM104854,1166,auto,44975.43,0.0614,LOW,0,No rule triggered,0
+CLM104932,3698,theft,16587.77,0.0601,LOW,0,No rule triggered,0
+CLM104172,2519,theft,10303.39,0.0587,LOW,0,No rule triggered,0
+CLM104057,2591,theft,6796.23,0.0585,LOW,0,Coverage changed recently; No witnesses,0
+CLM103443,1660,home,10513.23,0.0584,LOW,0,No rule triggered,0
+CLM100357,3675,theft,54551.19,0.0577,LOW,0,Reported > 14 days after incident; No witnesses,0
+CLM104504,1050,home,11617.06,0.0558,LOW,0,No police report; No witnesses,0
+CLM104942,3511,auto,24903.72,0.0547,LOW,0,No rule triggered,0
+CLM101183,2344,health,17072.09,0.0546,LOW,0,No rule triggered,0
+CLM102714,2519,auto,2259.42,0.054,LOW,0,Coverage changed recently; No witnesses,0
+CLM103977,3961,fire,9849.92,0.0538,LOW,0,Reported > 14 days after incident,0
+CLM100383,1722,home,31021.41,0.0529,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM101294,3855,fire,1031.4,0.0526,LOW,0,Incident at night (23:00-04:59),0
+CLM104482,3507,auto,32440.88,0.0523,LOW,0,No witnesses,0
+CLM105945,1384,home,36839.75,0.0516,LOW,0,No rule triggered,0
+CLM105844,3620,home,5435.57,0.0508,LOW,0,No rule triggered,0
+CLM102040,1868,theft,7887.93,0.0507,LOW,0,New customer (< 12 months); No police report; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM105416,2057,theft,35146.5,0.0498,LOW,0,Incident at night (23:00-04:59),0
+CLM105426,3481,health,19441.69,0.0491,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),1
+CLM100990,2028,auto,86239.86,0.0491,LOW,0,Claim amount > 60% of coverage; No police report,0
+CLM101485,3588,auto,35297.48,0.0491,LOW,0,No police report,0
+CLM101985,3380,auto,7652.66,0.0467,LOW,0,No police report; No witnesses,0
+CLM104516,2054,home,6644.12,0.0467,LOW,0,Multiple previous claims (>=3),0
+CLM102607,1772,auto,9579.45,0.0459,LOW,0,Incident at night (23:00-04:59),0
+CLM104799,2665,theft,15728.36,0.045,LOW,0,No witnesses,0
+CLM104342,2403,home,9444.62,0.0449,LOW,0,No rule triggered,0
+CLM103756,2910,auto,1816.73,0.0444,LOW,0,Suspicious wording in description,0
+CLM102264,1317,auto,7459.94,0.0443,LOW,0,Incident at night (23:00-04:59),0
+CLM105884,1392,health,4119.17,0.0439,LOW,0,No rule triggered,0
+CLM103858,1976,health,17323.23,0.0438,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM101731,3711,health,11827.62,0.0438,LOW,0,No rule triggered,0
+CLM101468,3332,health,10657.785,0.0432,LOW,0,No police report,0
+CLM101288,1305,auto,30554.79,0.0425,LOW,0,Claim amount > 60% of coverage; Coverage changed recently; Incident at night (23:00-04:59); Multiple previous claims (>=3); Suspicious wording in description,0
+CLM102157,2896,health,10657.785,0.0422,LOW,0,No police report,0
+CLM104252,3940,auto,5580.89,0.0416,LOW,0,Incident at night (23:00-04:59),0
+CLM101736,2508,health,22415.05,0.0414,LOW,0,New customer (< 12 months); Reported > 14 days after incident; Multiple previous claims (>=3),0
+CLM100783,1365,auto,10657.785,0.0413,LOW,0,No police report,0
+CLM101133,3288,health,10657.785,0.0406,LOW,0,No witnesses,0
+CLM105634,3299,health,4140.84,0.0397,LOW,0,No rule triggered,0
+CLM100892,2567,home,1091.7,0.0389,LOW,0,Multiple previous claims (>=3),0
+CLM102766,2108,health,31065.56,0.0388,LOW,0,No police report,0
+CLM100360,3536,auto,3907.66,0.0382,LOW,0,Incident at night (23:00-04:59),0
+CLM102827,3830,theft,2465.21,0.0369,LOW,0,No rule triggered,0
+CLM103316,2896,auto,16499.04,0.0369,LOW,0,Coverage changed recently; No police report,0
+CLM100526,3770,fire,5482.81,0.0364,LOW,0,Incident at night (23:00-04:59),0
+CLM105210,1305,health,9496.51,0.0362,LOW,0,No rule triggered,0
+CLM105333,3685,auto,8031.2,0.0358,LOW,0,Incident at night (23:00-04:59),0
+CLM102319,3323,auto,4914.67,0.0357,LOW,0,No rule triggered,0
+CLM101142,3794,health,10635.64,0.0356,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM105029,1698,auto,24440.71,0.0355,LOW,0,No police report,0
+CLM103703,3717,health,2036.8,0.0352,LOW,0,No police report,0
+CLM105100,2650,home,38276.73,0.0348,LOW,0,Coverage changed recently; No police report; Multiple previous claims (>=3),0
+CLM102881,1709,auto,12121.59,0.0345,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM103226,2736,fire,2231.34,0.0341,LOW,0,No witnesses,0
+CLM104118,1622,theft,10477.23,0.034,LOW,0,No police report; No witnesses; Suspicious wording in description,0
+CLM103177,1888,auto,14203.32,0.0336,LOW,0,No police report; No witnesses,0
+CLM102245,3497,auto,24191.14,0.0335,LOW,0,No witnesses,0
+CLM104992,3974,home,40150.9,0.0332,LOW,0,No police report; No witnesses; Suspicious wording in description,0
+CLM103143,2704,auto,14005.84,0.0332,LOW,0,No police report,0
+CLM100159,3351,home,3836.21,0.0331,LOW,0,No rule triggered,0
+CLM104288,3293,home,10657.785,0.0315,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM105372,2080,health,5380.12,0.0313,LOW,0,New customer (< 12 months); Coverage changed recently; No witnesses,0
+CLM105289,1873,home,9972.81,0.0288,LOW,0,No police report,0
+CLM104128,2643,auto,18960.69,0.028,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM100537,1346,auto,14828.19,0.0278,LOW,0,No witnesses,0
+CLM105429,3581,home,12049.49,0.0278,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM105746,2299,fire,7241.04,0.0277,LOW,0,New customer (< 12 months); No police report; Incident at night (23:00-04:59),0
+CLM105459,3678,fire,43814.29,0.0276,LOW,0,Claim amount > 60% of coverage; New customer (< 12 months),0
+CLM105535,3026,theft,7399.15,0.0272,LOW,0,Multiple previous claims (>=3),0
+CLM104085,2897,auto,7863.91,0.027,LOW,0,Multiple previous claims (>=3),0
+CLM101556,3690,health,11129.15,0.0267,LOW,0,No witnesses; Multiple previous claims (>=3),0
+CLM100870,2368,health,4690.71,0.0265,LOW,0,Coverage changed recently; No police report,0
+CLM103633,3281,auto,7973.25,0.0264,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM102585,2663,health,8169.16,0.0264,LOW,0,No police report,0
+CLM105901,1460,auto,9339.36,0.0259,LOW,0,Coverage changed recently,0
+CLM100808,2172,home,4404.98,0.0252,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM104850,3786,health,46651.74,0.0249,LOW,0,Claim amount > 60% of coverage; No police report; Incident at night (23:00-04:59),0
+CLM101100,2439,health,13195.11,0.0245,LOW,0,No witnesses,0
+CLM101412,1751,fire,43192.44,0.024,LOW,0,No rule triggered,0
+CLM102518,1429,auto,10665.99,0.0238,LOW,0,No rule triggered,0
+CLM104047,1744,auto,13281.02,0.0235,LOW,0,No police report; No witnesses,0
+CLM100762,3847,auto,11615.43,0.0234,LOW,0,Incident at night (23:00-04:59),0
+CLM100887,1579,home,9504.35,0.0229,LOW,0,Coverage changed recently,0
+CLM102430,1396,health,4541.14,0.0228,LOW,0,No police report,0
+CLM102939,1506,health,3868.14,0.0227,LOW,0,No police report,0
+CLM102514,1310,auto,22428.06,0.0219,LOW,0,No rule triggered,0
+CLM102584,2051,home,4534.07,0.0219,LOW,0,Coverage changed recently; No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM100178,3701,home,1665.98,0.0217,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM102953,2310,auto,16725.17,0.0216,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM102951,2524,health,23699.74,0.0215,LOW,0,Coverage changed recently,0
+CLM100239,2881,fire,22246.7,0.0215,LOW,0,No police report,0
+CLM103475,1647,theft,17525.53,0.0215,LOW,0,No witnesses,0
+CLM105410,1065,auto,11926.39,0.0211,LOW,0,No rule triggered,0
+CLM102397,1867,auto,9757.37,0.021,LOW,0,New customer (< 12 months); No police report; No witnesses,0
+CLM102275,2274,health,12060.53,0.0209,LOW,0,No witnesses,0
+CLM105040,2054,fire,39124.35,0.0205,LOW,0,No rule triggered,0
+CLM103953,2391,fire,18593.33,0.0203,LOW,0,No rule triggered,0
+CLM103853,2056,auto,7394.08,0.0203,LOW,0,Coverage changed recently; Suspicious wording in description,0
+CLM103204,1898,auto,10144.4,0.02,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM100235,3158,theft,14650.7,0.0198,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM105768,2408,health,8812.81,0.0198,LOW,0,No police report,0
+CLM104184,1167,home,23577.08,0.0196,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),0
+CLM102849,2084,health,10657.785,0.0195,LOW,0,Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM103171,3816,theft,10474.75,0.0188,LOW,0,No rule triggered,0
+CLM102173,3294,home,39038.13,0.0187,LOW,0,Claim amount > 60% of coverage; No police report; Incident at night (23:00-04:59),0
+CLM101004,1384,auto,37863.93,0.0186,LOW,0,No police report; No witnesses,0
+CLM105659,3209,auto,14018.12,0.0182,LOW,0,No rule triggered,0
+CLM101957,2595,fire,24364.57,0.0182,LOW,0,No rule triggered,0
+CLM100012,3207,health,27386.2,0.018,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59),0
+CLM103855,3134,theft,46308.82,0.0171,LOW,0,Claim amount > 60% of coverage; No police report,0
+CLM102046,2358,fire,1032.08,0.0171,LOW,0,No police report,0
+CLM105266,2630,theft,36470.08,0.0171,LOW,0,No rule triggered,0
+CLM101832,2765,theft,6570.63,0.0171,LOW,0,No rule triggered,0
+CLM100915,2375,auto,21375.33,0.017,LOW,0,Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM101071,1627,fire,4171.84,0.017,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),0
+CLM105914,2573,home,10657.785,0.0166,LOW,0,No witnesses; Suspicious wording in description,0
+CLM103888,1419,health,7131.66,0.0164,LOW,0,No police report; No witnesses; Multiple previous claims (>=3); Suspicious wording in description,0
+CLM101557,3318,health,4492.07,0.0163,LOW,0,Coverage changed recently; No police report; No witnesses,0
+CLM100212,3367,auto,10226.67,0.0163,LOW,0,No police report; Suspicious wording in description,0
+CLM101461,1937,theft,7084.43,0.0161,LOW,0,No police report,0
+CLM100819,3997,auto,1992.43,0.016,LOW,0,No police report; No witnesses,0
+CLM105316,2612,home,14870.61,0.016,LOW,0,No police report,0
+CLM105815,1172,health,4194.19,0.016,LOW,0,No witnesses,0
+CLM100393,2798,health,27040.12,0.0157,LOW,0,New customer (< 12 months),0
+CLM100278,1194,health,26068.3,0.0155,LOW,0,New customer (< 12 months),0
+CLM100022,1547,auto,10657.785,0.0153,LOW,0,New customer (< 12 months),0
+CLM104679,1207,theft,5684.2,0.015,LOW,0,No police report; Suspicious wording in description,0
+CLM103879,1127,fire,75015.83,0.0149,LOW,0,No rule triggered,0
+CLM102237,1811,health,84099.6,0.0148,LOW,0,Coverage changed recently,0
+CLM102679,2123,health,18808.69,0.0147,LOW,0,Coverage changed recently; Incident at night (23:00-04:59),0
+CLM103385,1740,auto,10657.785,0.0144,LOW,0,No rule triggered,0
+CLM105085,2019,auto,10657.785,0.0139,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM100141,1643,health,26376.96,0.0138,LOW,0,New customer (< 12 months); Incident at night (23:00-04:59),0
+CLM102340,2270,auto,5936.42,0.0137,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM102250,2519,health,17815.0,0.0136,LOW,0,Coverage changed recently; No police report,0
+CLM104587,1922,home,14918.7,0.0136,LOW,0,No police report; No witnesses,0
+CLM103110,2618,auto,5787.53,0.0135,LOW,0,No witnesses,0
+CLM103145,2656,health,14384.36,0.0135,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM100050,3279,health,10657.785,0.0133,LOW,0,No police report; Suspicious wording in description,0
+CLM100411,1688,auto,11487.33,0.013,LOW,0,New customer (< 12 months); Coverage changed recently; No witnesses; Multiple previous claims (>=3),0
+CLM103066,3487,health,23614.36,0.013,LOW,0,New customer (< 12 months); No police report; No witnesses,0
+CLM103932,3108,theft,3972.76,0.0129,LOW,0,No witnesses,0
+CLM103816,2355,home,34196.48,0.0128,LOW,0,No witnesses,0
+CLM102758,2079,home,7013.87,0.0124,LOW,0,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM100775,3853,auto,40640.14,0.0124,LOW,0,Claim amount > 60% of coverage; Reported > 14 days after incident,0
+CLM103854,2446,home,14415.28,0.012,LOW,0,Incident at night (23:00-04:59),0
+CLM103789,1949,auto,2597.92,0.012,LOW,0,No police report,0
+CLM105801,2151,auto,6407.3,0.0119,LOW,0,No police report,0
+CLM104379,3788,auto,48928.9,0.0118,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM103367,1863,theft,7156.58,0.0117,LOW,0,No rule triggered,0
+CLM102017,3178,auto,3600.5,0.0115,LOW,0,New customer (< 12 months),0
+CLM101805,1135,home,4827.51,0.0115,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM104250,2254,theft,26245.59,0.0114,LOW,0,Reported > 14 days after incident; No police report; Suspicious wording in description,0
+CLM100577,2571,auto,21863.64,0.0114,LOW,0,No police report,0
+CLM103431,3310,health,13853.08,0.0113,LOW,0,Reported > 14 days after incident; No police report,0
+CLM101604,1372,auto,12250.14,0.0113,LOW,0,No police report,0
+CLM103736,2137,theft,15305.93,0.0112,LOW,0,No police report; Suspicious wording in description,0
+CLM102376,3561,home,10657.785,0.0111,LOW,0,No police report,0
+CLM101336,2914,auto,3529.5,0.011,LOW,0,Reported > 14 days after incident; No police report,0
+CLM104167,1543,auto,21763.17,0.011,LOW,0,Coverage changed recently; No police report; No witnesses,0
+CLM103942,3783,fire,8872.05,0.011,LOW,0,No witnesses,0
+CLM101638,1547,health,2550.49,0.0109,LOW,0,No police report,0
+CLM102592,2596,theft,12673.25,0.0109,LOW,0,New customer (< 12 months); Reported > 14 days after incident; Coverage changed recently; No police report,0
+CLM105133,1123,theft,5141.47,0.0109,LOW,0,Incident at night (23:00-04:59),0
+CLM103558,1503,home,18991.73,0.0109,LOW,0,No witnesses; Multiple previous claims (>=3),0
+CLM100410,1522,health,9108.66,0.0108,LOW,0,No police report; No witnesses,0
+CLM101804,1383,auto,9242.35,0.0107,LOW,0,Incident at night (23:00-04:59),0
+CLM100395,3623,fire,6969.74,0.0107,LOW,0,New customer (< 12 months),0
+CLM105883,1667,auto,13574.69,0.0105,LOW,0,No rule triggered,0
+CLM104439,1944,fire,10070.55,0.0105,LOW,0,Reported > 14 days after incident,0
+CLM105563,1309,auto,4444.62,0.0104,LOW,0,No witnesses,0
+CLM100273,3875,auto,4221.44,0.0101,LOW,0,No police report; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM105193,1266,auto,18596.18,0.0099,LOW,0,Coverage changed recently; No witnesses,0
+CLM104697,1266,theft,8935.89,0.0098,LOW,0,New customer (< 12 months); Multiple previous claims (>=3); Suspicious wording in description,0
+CLM102516,3075,fire,40246.84,0.0098,LOW,0,Claim amount > 60% of coverage; Coverage changed recently,0
+CLM104449,3695,home,7570.64,0.0098,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM100336,3889,home,10303.15,0.0097,LOW,0,Incident at night (23:00-04:59),0
+CLM100413,1395,fire,14901.73,0.0097,LOW,0,No police report,0
+CLM105046,3314,home,6415.14,0.0097,LOW,0,No witnesses,0
+CLM103562,2262,health,19095.23,0.0097,LOW,0,Suspicious wording in description,0
+CLM104313,1293,home,37153.26,0.0095,LOW,0,Incident at night (23:00-04:59),0
+CLM101723,3193,auto,9142.0,0.0095,LOW,0,Coverage changed recently; No police report,0
+CLM105076,1989,health,31807.74,0.0093,LOW,0,New customer (< 12 months),0
+CLM105798,2687,theft,7590.94,0.0091,LOW,0,Coverage changed recently; Incident at night (23:00-04:59),0
+CLM105957,3148,auto,30969.32,0.009,LOW,0,Claim amount > 60% of coverage,0
+CLM103439,3488,auto,24846.34,0.0089,LOW,0,Coverage changed recently; No police report; No witnesses; Suspicious wording in description,0
+CLM103057,1442,health,23184.07,0.0088,LOW,0,No police report; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM100731,2255,health,15947.03,0.0088,LOW,0,No rule triggered,0
+CLM104808,2169,auto,30389.44,0.0088,LOW,0,No rule triggered,0
+CLM104979,2825,health,16961.51,0.0088,LOW,0,Incident at night (23:00-04:59),0
+CLM102708,3191,health,2775.28,0.0088,LOW,0,No police report,0
+CLM100065,1977,auto,19285.08,0.0088,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM105716,1599,auto,7487.85,0.0087,LOW,0,Suspicious wording in description,0
+CLM105564,1277,auto,35042.1,0.0086,LOW,0,No police report,0
+CLM101459,2548,home,13020.89,0.0086,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM105020,3641,auto,14821.82,0.0086,LOW,0,Incident at night (23:00-04:59),0
+CLM102986,3242,auto,17417.69,0.0086,LOW,0,Reported > 14 days after incident; No police report,0
+CLM101627,2753,home,4889.91,0.0085,LOW,0,No police report,0
+CLM104688,1023,health,9218.51,0.0085,LOW,0,Suspicious wording in description,0
+CLM105772,2228,fire,20977.82,0.0085,LOW,0,No police report,0
+CLM103244,3186,auto,27302.5,0.0084,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM104230,1220,home,10608.2,0.0084,LOW,0,New customer (< 12 months); Incident at night (23:00-04:59),0
+CLM100123,2413,auto,11299.38,0.0083,LOW,0,No police report; No witnesses,0
+CLM103987,1213,health,10657.785,0.0082,LOW,0,Reported > 14 days after incident; No police report; Multiple previous claims (>=3),0
+CLM105057,3487,fire,16556.68,0.0081,LOW,0,Reported > 14 days after incident; No police report,0
+CLM102076,2393,home,9807.5,0.008,LOW,0,Incident at night (23:00-04:59),0
+CLM105207,3260,auto,11763.18,0.0079,LOW,0,No witnesses; Suspicious wording in description,0
+CLM104182,1303,home,14088.64,0.0079,LOW,0,No police report; No witnesses,0
+CLM103645,2585,home,1693.21,0.0076,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM103082,1830,theft,5444.18,0.0075,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM103317,2197,health,10657.785,0.0075,LOW,0,No witnesses,0
+CLM105178,1261,theft,7299.75,0.0075,LOW,0,Coverage changed recently; No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM100499,2277,auto,12272.11,0.0075,LOW,0,No rule triggered,0
+CLM103059,1820,fire,4055.11,0.0075,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM103563,3389,health,10657.785,0.0074,LOW,0,Coverage changed recently; Incident at night (23:00-04:59),0
+CLM100994,2588,fire,13721.6,0.0074,LOW,0,Reported > 14 days after incident; No witnesses,0
+CLM104161,2175,health,2817.5,0.0073,LOW,0,No police report,0
+CLM104298,1108,auto,43854.53,0.0073,LOW,0,Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM101677,2257,theft,24596.8,0.0072,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),0
+CLM102879,3931,health,4621.74,0.0072,LOW,0,Coverage changed recently; No witnesses; Incident at night (23:00-04:59),0
+CLM105377,1765,home,14945.44,0.0072,LOW,0,No witnesses,0
+CLM104538,3502,fire,3807.73,0.0072,LOW,0,No police report; No witnesses,0
+CLM104594,2850,theft,15763.66,0.0071,LOW,0,New customer (< 12 months); No police report; Incident at night (23:00-04:59),0
+CLM105351,2502,home,8388.56,0.0071,LOW,0,No rule triggered,0
+CLM102563,2226,fire,6764.31,0.007,LOW,0,Coverage changed recently; No police report,0
+CLM102313,1158,auto,6494.16,0.007,LOW,0,Incident at night (23:00-04:59),0
+CLM102990,2368,health,87969.58,0.0068,LOW,0,Claim amount > 60% of coverage; No police report; No witnesses,0
+CLM100183,3088,fire,31416.12,0.0068,LOW,0,No witnesses; Suspicious wording in description,0
+CLM100851,3404,home,10478.16,0.0068,LOW,0,No rule triggered,0
+CLM103666,2766,home,10657.785,0.0068,LOW,0,No witnesses,0
+CLM100644,3310,auto,31551.68,0.0068,LOW,0,Coverage changed recently,0
+CLM105422,1220,fire,28752.03,0.0067,LOW,0,No police report; Suspicious wording in description,0
+CLM105001,1101,health,8100.89,0.0067,LOW,0,No police report,0
+CLM101106,1732,health,8191.56,0.0067,LOW,0,No police report; No witnesses,0
+CLM105739,1108,fire,11792.3,0.0066,LOW,0,New customer (< 12 months); Incident at night (23:00-04:59),0
+CLM101228,1462,health,11875.18,0.0066,LOW,0,No witnesses,0
+CLM102834,2164,health,12222.06,0.0065,LOW,0,No rule triggered,0
+CLM103098,1550,health,41014.88,0.0065,LOW,0,No police report; Suspicious wording in description,0
+CLM103653,2547,home,22761.04,0.0065,LOW,0,No witnesses,0
+CLM100767,2438,fire,4975.55,0.0064,LOW,0,No rule triggered,0
+CLM103139,2482,theft,7042.86,0.0064,LOW,0,No police report,0
+CLM104933,3482,auto,4407.68,0.0063,LOW,0,No rule triggered,0
+CLM103970,2432,fire,8560.17,0.0063,LOW,0,Suspicious wording in description,0
+CLM104734,3482,auto,10657.785,0.0063,LOW,0,No witnesses,0
+CLM105135,1299,theft,22604.1,0.0062,LOW,0,New customer (< 12 months); No police report,0
+CLM103141,2222,home,31730.13,0.0062,LOW,0,Claim amount > 60% of coverage; No police report; Suspicious wording in description,0
+CLM105573,3060,home,6132.94,0.0061,LOW,0,No witnesses,0
+CLM104528,2331,auto,5905.8,0.0061,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),0
+CLM100894,3248,auto,12713.43,0.006,LOW,0,No police report,0
+CLM102994,3311,auto,4216.06,0.006,LOW,0,Incident at night (23:00-04:59),0
+CLM100139,2310,health,35288.26,0.0059,LOW,0,Incident at night (23:00-04:59),0
+CLM101201,2432,auto,7411.68,0.0059,LOW,0,No police report; No witnesses,0
+CLM102573,2174,auto,15291.54,0.0059,LOW,0,New customer (< 12 months); Incident at night (23:00-04:59),0
+CLM102273,2383,theft,17790.33,0.0059,LOW,0,Reported > 14 days after incident; No police report,0
+CLM103261,2438,fire,3610.55,0.0059,LOW,0,No rule triggered,0
+CLM103166,3246,theft,10657.785,0.0059,LOW,0,No police report,0
+CLM104832,2169,health,3133.06,0.0058,LOW,0,Coverage changed recently; Incident at night (23:00-04:59),0
+CLM104243,1098,home,18857.07,0.0058,LOW,0,No rule triggered,0
+CLM103648,3996,auto,28712.13,0.0058,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM102332,1805,health,27084.84,0.0058,LOW,0,New customer (< 12 months); No police report,0
+CLM105777,1324,theft,14391.39,0.0057,LOW,0,No police report; No witnesses,0
+CLM105657,3437,auto,21236.43,0.0057,LOW,0,No rule triggered,0
+CLM103295,3388,health,5705.31,0.0057,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM102086,3199,home,11360.91,0.0056,LOW,0,Coverage changed recently,0
+CLM105758,2611,auto,2734.15,0.0055,LOW,0,No rule triggered,0
+CLM100040,1495,auto,16883.03,0.0055,LOW,0,Reported > 14 days after incident; No police report; No witnesses,0
+CLM102037,1120,auto,5881.04,0.0054,LOW,0,Coverage changed recently,0
+CLM101574,1445,auto,43215.55,0.0054,LOW,0,No rule triggered,0
+CLM104008,1569,health,9677.7,0.0054,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM100926,2623,auto,10193.45,0.0054,LOW,0,Incident at night (23:00-04:59),0
+CLM103355,2323,fire,7850.13,0.0054,LOW,0,No rule triggered,0
+CLM103669,1650,health,10416.3,0.0053,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM105353,2416,home,6345.46,0.0053,LOW,0,No police report,0
+CLM100118,1736,auto,5214.67,0.0053,LOW,0,Suspicious wording in description,0
+CLM103146,2927,home,4775.94,0.0053,LOW,0,Coverage changed recently; No police report,0
+CLM103490,1323,auto,27051.95,0.0053,LOW,0,No police report,0
+CLM103155,3543,auto,9469.27,0.0053,LOW,0,No police report,0
+CLM101906,1888,home,6870.92,0.0053,LOW,0,Reported > 14 days after incident; No witnesses,0
+CLM102303,3637,auto,10657.785,0.0053,LOW,0,No rule triggered,0
+CLM105271,2285,auto,21364.23,0.0052,LOW,0,Coverage changed recently; No police report,0
+CLM101762,1030,auto,10657.785,0.0052,LOW,0,New customer (< 12 months),0
+CLM105027,1290,auto,13590.21,0.0052,LOW,0,Coverage changed recently; No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM100685,3402,auto,8700.06,0.0052,LOW,0,No rule triggered,0
+CLM100813,1851,home,13631.17,0.0051,LOW,0,Coverage changed recently; No witnesses; Incident at night (23:00-04:59),0
+CLM104954,2127,home,6709.09,0.0051,LOW,0,Reported > 14 days after incident; No witnesses,0
+CLM100929,2734,auto,2673.01,0.0051,LOW,0,No police report,0
+CLM101542,1266,auto,11835.24,0.0051,LOW,0,No witnesses,0
+CLM103087,1529,auto,9357.59,0.005,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM105460,3696,home,11642.38,0.005,LOW,0,No rule triggered,0
+CLM103864,2894,auto,3369.49,0.005,LOW,0,No police report,0
+CLM103967,1725,theft,7321.62,0.005,LOW,0,Incident at night (23:00-04:59),0
+CLM103722,3252,health,4016.82,0.005,LOW,0,No police report,0
+CLM100512,3522,auto,10657.785,0.005,LOW,0,No police report; No witnesses,0
+CLM101978,1171,home,9847.28,0.0049,LOW,0,No police report,0
+CLM103486,2021,home,6905.35,0.0049,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM104568,1928,auto,30202.7,0.0049,LOW,0,Multiple previous claims (>=3),0
+CLM100743,1811,theft,33142.39,0.0049,LOW,0,No witnesses,0
+CLM103527,1270,auto,5018.84,0.0049,LOW,0,New customer (< 12 months); No police report,0
+CLM102373,2195,fire,26820.55,0.0048,LOW,0,No witnesses,0
+CLM103374,3017,theft,19210.62,0.0047,LOW,0,Coverage changed recently,0
+CLM104518,3132,auto,23253.06,0.0046,LOW,0,No witnesses,0
+CLM103495,2594,theft,2993.39,0.0046,LOW,0,No rule triggered,0
+CLM103943,3908,auto,44968.05,0.0045,LOW,0,Reported > 14 days after incident; No witnesses; Incident at night (23:00-04:59),0
+CLM101849,1495,health,8772.42,0.0045,LOW,0,No rule triggered,0
+CLM102508,2221,health,6887.99,0.0045,LOW,0,Suspicious wording in description,0
+CLM100824,2869,home,9694.44,0.0045,LOW,0,No police report,0
+CLM100993,2294,theft,3074.26,0.0045,LOW,0,No police report; No witnesses,0
+CLM101869,3317,theft,8915.49,0.0044,LOW,0,Suspicious wording in description,0
+CLM101931,2446,auto,7993.08,0.0043,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM104321,2344,health,12700.3,0.0043,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM102191,2229,home,24652.6,0.0043,LOW,0,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM104183,3557,theft,15854.55,0.0043,LOW,0,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM103591,1885,health,9787.08,0.0043,LOW,0,No rule triggered,0
+CLM103747,3955,auto,9130.89,0.0043,LOW,0,No rule triggered,0
+CLM103313,1674,theft,51013.4,0.0043,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM102393,1662,health,4515.79,0.0042,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM104025,1419,theft,3750.36,0.0042,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM105401,3066,auto,2421.72,0.0042,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM100034,3663,health,15866.38,0.0042,LOW,0,No witnesses,0
+CLM105847,3022,auto,32774.88,0.0042,LOW,0,Claim amount > 60% of coverage; Suspicious wording in description,0
+CLM101993,2917,home,9160.39,0.0042,LOW,0,New customer (< 12 months); No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM101568,3728,theft,42842.97,0.0041,LOW,0,Coverage changed recently,0
+CLM101539,2860,theft,7209.73,0.0041,LOW,0,No rule triggered,0
+CLM103397,3881,auto,29171.03,0.004,LOW,0,Incident at night (23:00-04:59),0
+CLM103720,2916,fire,10657.785,0.004,LOW,0,No police report; No witnesses,0
+CLM105237,3469,theft,60513.5,0.004,LOW,0,Multiple previous claims (>=3),0
+CLM101758,2714,theft,11712.92,0.004,LOW,0,No police report; No witnesses,0
+CLM103423,2148,home,9472.88,0.004,LOW,0,Incident at night (23:00-04:59),0
+CLM100662,1105,auto,29809.12,0.004,LOW,0,No police report,0
+CLM100723,1359,theft,7401.14,0.004,LOW,0,No police report; No witnesses,0
+CLM104324,3913,home,4986.35,0.0039,LOW,0,Incident at night (23:00-04:59),0
+CLM101871,1620,health,13537.51,0.0038,LOW,0,No rule triggered,0
+CLM105287,3588,home,4581.38,0.0038,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM102030,2667,home,61690.34,0.0038,LOW,0,Claim amount > 60% of coverage; No police report; No witnesses,0
+CLM102948,2593,fire,6335.24,0.0038,LOW,0,Incident at night (23:00-04:59),0
+CLM105769,2645,theft,9932.07,0.0038,LOW,0,No police report,0
+CLM105788,2632,auto,45957.86,0.0038,LOW,0,No witnesses,0
+CLM103236,2090,home,2802.92,0.0038,LOW,0,No police report,0
+CLM102935,1685,health,12251.44,0.0037,LOW,0,Suspicious wording in description,0
+CLM101363,1605,home,8977.16,0.0037,LOW,0,New customer (< 12 months); No witnesses; Incident at night (23:00-04:59),0
+CLM104564,3690,theft,3305.21,0.0037,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM100946,3920,fire,3965.72,0.0037,LOW,0,No rule triggered,0
+CLM100161,2992,home,31832.12,0.0036,LOW,0,Claim amount > 60% of coverage; New customer (< 12 months); Incident at night (23:00-04:59),0
+CLM105501,1675,theft,6178.17,0.0036,LOW,0,New customer (< 12 months); Reported > 14 days after incident,0
+CLM105578,2361,health,1967.51,0.0036,LOW,0,Coverage changed recently; No police report; Suspicious wording in description,0
+CLM102062,1448,home,53036.9,0.0036,LOW,0,Incident at night (23:00-04:59),0
+CLM104509,3898,theft,19880.64,0.0036,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM101435,1305,theft,37631.94,0.0036,LOW,0,Claim amount > 60% of coverage; No witnesses,0
+CLM102146,1529,health,4478.89,0.0036,LOW,0,Coverage changed recently; No police report,0
+CLM105666,1606,home,10374.05,0.0036,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM100953,2283,auto,7090.64,0.0035,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM104189,3700,auto,2296.1,0.0035,LOW,0,No witnesses,0
+CLM101389,3727,fire,21212.02,0.0035,LOW,0,No rule triggered,0
+CLM103342,1296,auto,3465.63,0.0035,LOW,0,No rule triggered,0
+CLM105497,2491,home,14620.16,0.0035,LOW,0,Suspicious wording in description,0
+CLM104669,2285,auto,9172.41,0.0034,LOW,0,No rule triggered,0
+CLM102121,3858,theft,37248.62,0.0034,LOW,0,Claim amount > 60% of coverage; No witnesses,0
+CLM105803,3793,health,3954.62,0.0034,LOW,0,Multiple previous claims (>=3),0
+CLM105021,2387,fire,8983.38,0.0034,LOW,0,No police report,0
+CLM103732,2205,health,14574.56,0.0034,LOW,0,No police report,0
+CLM103541,2740,auto,18589.01,0.0034,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM102478,1233,theft,33683.63,0.0033,LOW,0,Suspicious wording in description,0
+CLM103586,2357,auto,24806.67,0.0033,LOW,0,Coverage changed recently; Incident at night (23:00-04:59),0
+CLM103189,3502,auto,5526.79,0.0033,LOW,0,No police report; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM104273,1943,home,17685.64,0.0033,LOW,0,No rule triggered,0
+CLM103129,3374,home,9116.13,0.0032,LOW,0,No rule triggered,0
+CLM101946,1471,auto,13570.88,0.0032,LOW,0,Suspicious wording in description,0
+CLM100108,2414,auto,21735.11,0.0032,LOW,0,Coverage changed recently,0
+CLM104986,3899,theft,29081.11,0.0032,LOW,0,Incident at night (23:00-04:59),0
+CLM101437,2958,theft,25904.25,0.0032,LOW,0,New customer (< 12 months); No witnesses,0
+CLM104750,1122,health,5743.37,0.0031,LOW,0,No rule triggered,0
+CLM101148,3067,auto,11057.68,0.0031,LOW,0,No rule triggered,0
+CLM105473,1544,auto,12511.18,0.0031,LOW,0,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM101011,3399,home,5528.17,0.0031,LOW,0,No rule triggered,0
+CLM101124,3521,theft,20748.02,0.003,LOW,0,No police report; No witnesses,0
+CLM100923,1435,theft,7151.36,0.003,LOW,0,No rule triggered,0
+CLM105309,2358,theft,18995.21,0.003,LOW,0,No rule triggered,0
+CLM100952,2844,health,6834.35,0.003,LOW,0,New customer (< 12 months); No witnesses; Incident at night (23:00-04:59),0
+CLM104998,3035,auto,6715.05,0.003,LOW,0,No witnesses,0
+CLM101770,2014,home,14324.96,0.003,LOW,0,Suspicious wording in description,0
+CLM102816,3021,auto,2857.92,0.003,LOW,0,Reported > 14 days after incident,0
+CLM101020,1167,auto,1729.06,0.0029,LOW,0,New customer (< 12 months); No witnesses,0
+CLM105394,2629,health,8706.4,0.0029,LOW,0,No police report,0
+CLM103956,2563,auto,5027.12,0.0029,LOW,0,No rule triggered,0
+CLM104956,1481,auto,59163.47,0.0029,LOW,0,No rule triggered,0
+CLM100157,2671,auto,22194.61,0.0029,LOW,0,No rule triggered,0
+CLM101513,1992,fire,10214.09,0.0029,LOW,0,No rule triggered,0
+CLM102627,1013,fire,21643.28,0.0028,LOW,0,Multiple previous claims (>=3),0
+CLM101882,1533,fire,52461.94,0.0028,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM100140,3948,auto,40110.52,0.0028,LOW,0,No police report; No witnesses,0
+CLM101602,3477,auto,14909.81,0.0028,LOW,0,No rule triggered,0
+CLM100720,1417,home,5522.46,0.0028,LOW,0,No rule triggered,0
+CLM105451,3222,auto,4581.9,0.0028,LOW,0,No witnesses; Multiple previous claims (>=3),0
+CLM105878,2969,auto,7157.84,0.0027,LOW,0,New customer (< 12 months); No police report; No witnesses,0
+CLM103851,1137,theft,6802.33,0.0027,LOW,0,No police report; No witnesses,0
+CLM104502,3992,auto,31106.24,0.0027,LOW,0,No police report,0
+CLM104371,1509,auto,9753.61,0.0027,LOW,0,Incident at night (23:00-04:59),0
+CLM105434,2577,auto,12803.02,0.0026,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM104434,2753,health,6673.2,0.0026,LOW,0,Coverage changed recently; No police report,0
+CLM104216,2465,auto,6364.97,0.0026,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM105199,3851,theft,17369.61,0.0026,LOW,0,Incident at night (23:00-04:59),0
+CLM103114,2094,health,12363.07,0.0026,LOW,0,No police report,0
+CLM102087,2988,auto,6388.54,0.0026,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104282,1509,theft,28030.91,0.0026,LOW,0,No police report,0
+CLM101740,2293,auto,3702.29,0.0026,LOW,0,No police report,0
+CLM105992,3473,health,35808.44,0.0025,LOW,0,No rule triggered,0
+CLM101417,2315,auto,8804.74,0.0025,LOW,0,No police report; No witnesses; Multiple previous claims (>=3),0
+CLM105855,2764,health,12701.54,0.0025,LOW,0,Coverage changed recently; No police report; Multiple previous claims (>=3),0
+CLM103006,2797,home,10657.785,0.0025,LOW,0,Coverage changed recently; No police report,0
+CLM101392,3951,fire,4639.71,0.0025,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104262,1874,theft,10661.39,0.0025,LOW,0,Incident at night (23:00-04:59),0
+CLM103279,3189,health,1947.06,0.0024,LOW,0,No police report,0
+CLM104828,3755,theft,27090.59,0.0024,LOW,0,No police report,0
+CLM103368,2270,health,30070.65,0.0024,LOW,0,Reported > 14 days after incident; No witnesses,0
+CLM100996,2579,home,21675.23,0.0024,LOW,0,No rule triggered,0
+CLM100778,1812,auto,24452.23,0.0024,LOW,0,Incident at night (23:00-04:59),0
+CLM100438,1242,auto,12549.46,0.0024,LOW,0,No police report,0
+CLM102367,1528,auto,16864.54,0.0024,LOW,0,No police report,0
+CLM104869,3091,auto,16836.63,0.0024,LOW,0,No police report,0
+CLM105534,1265,auto,9812.56,0.0024,LOW,0,No police report,0
+CLM100321,1323,auto,3001.43,0.0023,LOW,0,New customer (< 12 months); No police report; Suspicious wording in description,0
+CLM105961,2840,auto,10776.59,0.0023,LOW,0,No police report; No witnesses,0
+CLM103533,3969,auto,5564.55,0.0023,LOW,0,Coverage changed recently; Suspicious wording in description,0
+CLM103196,1676,fire,8227.75,0.0023,LOW,0,No rule triggered,0
+CLM105433,2509,home,18212.29,0.0023,LOW,0,No witnesses,0
+CLM105752,1358,auto,4855.82,0.0023,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM104527,1278,auto,5404.19,0.0023,LOW,0,No rule triggered,0
+CLM103534,1263,home,2296.55,0.0023,LOW,0,Incident at night (23:00-04:59),0
+CLM103828,3045,auto,13912.91,0.0023,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM104206,3719,home,10756.6,0.0023,LOW,0,No witnesses,0
+CLM104150,1987,auto,12964.5,0.0022,LOW,0,Reported > 14 days after incident; No police report; No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM103683,2709,auto,13154.56,0.0022,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM103500,1183,auto,5589.37,0.0022,LOW,0,No police report,0
+CLM105796,3605,auto,7780.41,0.0022,LOW,0,No police report; No witnesses,0
+CLM103554,2243,home,25961.77,0.0022,LOW,0,Reported > 14 days after incident,0
+CLM104664,1937,theft,39751.85,0.0021,LOW,0,Claim amount > 60% of coverage; No police report,0
+CLM102316,1260,health,5821.21,0.0021,LOW,0,No police report,0
+CLM104722,3835,theft,85020.62,0.0021,LOW,0,Claim amount > 60% of coverage,0
+CLM103152,1590,auto,2186.57,0.0021,LOW,0,New customer (< 12 months); No witnesses,0
+CLM103135,1047,auto,4820.53,0.0021,LOW,0,No police report,0
+CLM102655,2695,health,14759.47,0.0021,LOW,0,No rule triggered,0
+CLM100459,1317,home,5721.23,0.0021,LOW,0,No police report; No witnesses,0
+CLM100180,3814,auto,2095.25,0.0021,LOW,0,No witnesses,0
+CLM102698,1386,auto,53086.71,0.0021,LOW,0,No rule triggered,0
+CLM102903,2853,health,13624.32,0.002,LOW,0,Suspicious wording in description,0
+CLM102337,3457,fire,8169.43,0.002,LOW,0,No police report,0
+CLM102184,2901,auto,12550.38,0.002,LOW,0,No rule triggered,0
+CLM103986,1930,health,4524.62,0.002,LOW,0,Coverage changed recently,0
+CLM102336,2364,home,31026.23,0.002,LOW,0,Incident at night (23:00-04:59),0
+CLM104763,1712,health,19196.66,0.002,LOW,0,Incident at night (23:00-04:59),0
+CLM105017,2597,auto,17144.07,0.002,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM103811,2334,home,12273.3,0.0019,LOW,0,No rule triggered,0
+CLM105180,3564,health,9920.26,0.0019,LOW,0,No rule triggered,0
+CLM104833,1710,auto,6985.51,0.0019,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),0
+CLM103106,3581,theft,4777.46,0.0019,LOW,0,New customer (< 12 months); No witnesses,0
+CLM101255,1254,theft,10657.785,0.0019,LOW,0,No rule triggered,0
+CLM102991,2913,auto,3521.21,0.0019,LOW,0,No police report; Multiple previous claims (>=3); Suspicious wording in description,0
+CLM104294,3781,home,16102.73,0.0018,LOW,0,Incident at night (23:00-04:59),0
+CLM100924,1744,fire,30685.6,0.0018,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM103550,2319,home,21141.86,0.0018,LOW,0,Coverage changed recently; No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM102099,1740,fire,17602.07,0.0018,LOW,0,No witnesses,0
+CLM101752,2886,auto,13568.64,0.0018,LOW,0,No rule triggered,0
+CLM103019,3235,home,10657.785,0.0018,LOW,0,No rule triggered,0
+CLM105292,2018,fire,11654.68,0.0018,LOW,0,Coverage changed recently,0
+CLM101596,2977,theft,7127.01,0.0018,LOW,0,No police report,0
+CLM101458,1791,auto,10657.785,0.0018,LOW,0,No police report,0
+CLM105389,3624,theft,3962.58,0.0018,LOW,0,Reported > 14 days after incident,0
+CLM104148,3587,health,9660.55,0.0018,LOW,0,No police report,0
+CLM103421,3363,home,11831.06,0.0018,LOW,0,No rule triggered,0
+CLM101840,2275,health,26882.47,0.0018,LOW,0,No rule triggered,0
+CLM105505,3512,home,1983.78,0.0018,LOW,0,No rule triggered,0
+CLM100581,3500,health,1584.57,0.0018,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM102814,1599,fire,8612.59,0.0017,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM101062,1432,auto,32929.57,0.0017,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM105122,2845,theft,12200.13,0.0017,LOW,0,No police report; No witnesses,0
+CLM104656,1399,home,23279.34,0.0017,LOW,0,No police report; No witnesses,0
+CLM104403,3811,theft,55499.04,0.0017,LOW,0,No rule triggered,0
+CLM101362,2052,health,5077.96,0.0017,LOW,0,Coverage changed recently; No witnesses,0
+CLM103734,1967,auto,33643.94,0.0017,LOW,0,Claim amount > 60% of coverage; Coverage changed recently; No witnesses,0
+CLM105097,1958,fire,13215.52,0.0017,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM102582,1873,health,7235.1,0.0017,LOW,0,Incident at night (23:00-04:59),0
+CLM100409,1041,auto,1720.66,0.0017,LOW,0,Coverage changed recently; No police report,0
+CLM104514,3735,home,1142.6,0.0017,LOW,0,No rule triggered,0
+CLM104254,2025,home,3640.13,0.0017,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM100420,3782,theft,8847.99,0.0016,LOW,0,No police report,0
+CLM101976,3795,home,21423.74,0.0016,LOW,0,No witnesses,0
+CLM105824,2550,health,10657.785,0.0016,LOW,0,Incident at night (23:00-04:59),0
+CLM101164,2550,auto,11562.67,0.0016,LOW,0,Reported > 14 days after incident; No police report; Incident at night (23:00-04:59),0
+CLM105942,1599,home,14792.76,0.0016,LOW,0,No police report,0
+CLM103678,2616,auto,9021.93,0.0016,LOW,0,No police report; No witnesses,0
+CLM101753,2183,auto,3771.8,0.0016,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM105804,1921,auto,2275.03,0.0016,LOW,0,No witnesses,0
+CLM101633,3641,auto,13112.71,0.0016,LOW,0,No rule triggered,0
+CLM103809,2819,home,10657.785,0.0015,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM101591,2039,auto,14491.13,0.0015,LOW,0,Reported > 14 days after incident; Coverage changed recently,0
+CLM100883,1465,health,14089.17,0.0015,LOW,0,Coverage changed recently; No police report; No witnesses,0
+CLM100412,1837,fire,4454.26,0.0015,LOW,0,No police report,0
+CLM102219,1577,auto,11144.34,0.0015,LOW,0,Coverage changed recently,0
+CLM100150,3567,auto,10117.05,0.0015,LOW,0,Multiple previous claims (>=3); Suspicious wording in description,0
+CLM105730,3504,health,18740.65,0.0015,LOW,0,No witnesses,0
+CLM103523,1507,home,5186.61,0.0015,LOW,0,Coverage changed recently; No police report,0
+CLM101555,1488,auto,33666.28,0.0015,LOW,0,Multiple previous claims (>=3),0
+CLM101006,3550,health,22392.46,0.0015,LOW,0,New customer (< 12 months); No police report; Multiple previous claims (>=3),0
+CLM101163,2594,home,21352.08,0.0014,LOW,0,No police report; No witnesses,0
+CLM101751,3662,auto,5630.99,0.0014,LOW,0,No rule triggered,0
+CLM103799,1164,health,36193.25,0.0014,LOW,0,Incident at night (23:00-04:59),0
+CLM104325,2178,theft,2834.05,0.0014,LOW,0,No police report; Suspicious wording in description,0
+CLM105118,3618,health,18387.13,0.0014,LOW,0,No rule triggered,0
+CLM101506,3742,theft,8565.42,0.0014,LOW,0,Incident at night (23:00-04:59),0
+CLM103242,3692,home,14852.73,0.0014,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM102216,2351,theft,29546.38,0.0014,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104264,2798,health,27643.96,0.0014,LOW,0,Multiple previous claims (>=3),0
+CLM101428,1801,home,29899.38,0.0014,LOW,0,No rule triggered,0
+CLM100085,3100,health,2387.07,0.0014,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM100776,2271,theft,19528.23,0.0014,LOW,0,No rule triggered,0
+CLM104887,2618,auto,11026.19,0.0014,LOW,0,No witnesses,0
+CLM101108,3822,auto,34667.52,0.0014,LOW,0,No rule triggered,0
+CLM101447,3879,theft,12363.67,0.0014,LOW,0,No witnesses,0
+CLM104733,1789,fire,8052.25,0.0013,LOW,0,Incident at night (23:00-04:59),0
+CLM105927,2776,auto,15968.49,0.0013,LOW,0,No witnesses; Multiple previous claims (>=3),0
+CLM105610,1832,home,26168.95,0.0013,LOW,0,Coverage changed recently; Multiple previous claims (>=3),0
+CLM100679,3807,home,30252.61,0.0013,LOW,0,No police report,0
+CLM100434,2301,home,4665.32,0.0013,LOW,0,Incident at night (23:00-04:59),0
+CLM105817,3768,health,9645.74,0.0013,LOW,0,No rule triggered,0
+CLM103043,2588,health,20690.04,0.0013,LOW,0,No witnesses,0
+CLM102071,2941,home,22060.35,0.0013,LOW,0,No rule triggered,0
+CLM103283,1293,auto,12864.58,0.0013,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM101475,1906,fire,17398.8,0.0013,LOW,0,No rule triggered,0
+CLM101811,2957,health,7593.24,0.0013,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM101184,2260,auto,11334.49,0.0013,LOW,0,Multiple previous claims (>=3),0
+CLM103149,1325,theft,12530.18,0.0013,LOW,0,New customer (< 12 months); No witnesses,0
+CLM105098,3813,health,4949.71,0.0013,LOW,0,No rule triggered,0
+CLM104646,3237,auto,6765.03,0.0013,LOW,0,No rule triggered,0
+CLM102153,2633,health,6782.55,0.0013,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM101566,3904,auto,10072.7,0.0012,LOW,0,No police report,0
+CLM105130,1969,health,1564.99,0.0012,LOW,0,No rule triggered,0
+CLM103380,3496,home,10657.785,0.0012,LOW,0,No police report,0
+CLM100811,3637,theft,12930.17,0.0012,LOW,0,No police report,0
+CLM104090,3211,home,4929.18,0.0012,LOW,0,No rule triggered,0
+CLM102175,3287,theft,10657.785,0.0012,LOW,0,No rule triggered,0
+CLM105338,2168,theft,38268.47,0.0012,LOW,0,Claim amount > 60% of coverage; No police report; Incident at night (23:00-04:59),0
+CLM104335,2277,auto,10378.26,0.0012,LOW,0,No rule triggered,0
+CLM103050,3508,theft,3613.17,0.0012,LOW,0,No police report; No witnesses,0
+CLM100202,2485,theft,8853.58,0.0012,LOW,0,No rule triggered,0
+CLM105515,3095,health,6111.08,0.0012,LOW,0,No police report; No witnesses,0
+CLM102663,2489,health,1816.06,0.0012,LOW,0,No police report,0
+CLM103685,1462,auto,29210.41,0.0012,LOW,0,No rule triggered,0
+CLM101757,2826,auto,21202.22,0.0012,LOW,0,No rule triggered,0
+CLM100091,3414,auto,26227.64,0.0012,LOW,0,No police report,0
+CLM105441,2536,home,5184.93,0.0012,LOW,0,No police report,0
+CLM104034,2277,auto,9040.01,0.0012,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM101231,3201,auto,2836.62,0.0012,LOW,0,No police report,0
+CLM104391,3447,fire,6969.01,0.0012,LOW,0,No police report; No witnesses,0
+CLM102501,1299,health,65670.34,0.0012,LOW,0,Reported > 14 days after incident; Coverage changed recently; No police report,0
+CLM100798,1946,health,4975.61,0.0012,LOW,0,No witnesses,0
+CLM104483,1181,auto,28096.89,0.0012,LOW,0,Coverage changed recently; No police report,0
+CLM102944,3466,auto,19351.2,0.0012,LOW,0,No rule triggered,0
+CLM104537,3170,home,2494.82,0.0012,LOW,0,No police report; No witnesses,0
+CLM104758,2355,health,4836.09,0.0012,LOW,0,Multiple previous claims (>=3),0
+CLM105669,3051,theft,4369.4,0.0011,LOW,0,No police report; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM104519,2287,theft,13010.75,0.0011,LOW,0,No witnesses; Incident at night (23:00-04:59); Multiple previous claims (>=3); Suspicious wording in description,0
+CLM105177,2353,fire,27109.84,0.0011,LOW,0,Incident at night (23:00-04:59),0
+CLM102407,3131,auto,6610.73,0.0011,LOW,0,No witnesses,0
+CLM100463,2257,health,18040.4,0.0011,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM102082,1974,home,29712.12,0.0011,LOW,0,No rule triggered,0
+CLM101935,1490,fire,8995.29,0.0011,LOW,0,No witnesses,0
+CLM101048,3005,fire,10657.785,0.0011,LOW,0,Coverage changed recently,0
+CLM105704,1935,fire,2964.13,0.0011,LOW,0,No rule triggered,0
+CLM104645,2209,auto,10657.785,0.0011,LOW,0,No rule triggered,0
+CLM105719,2373,auto,7813.61,0.0011,LOW,0,Coverage changed recently,0
+CLM101693,2185,home,24239.73,0.0011,LOW,0,No police report,0
+CLM104918,3532,health,16677.42,0.0011,LOW,0,Multiple previous claims (>=3),0
+CLM105765,2649,theft,23759.69,0.0011,LOW,0,Incident at night (23:00-04:59),0
+CLM102699,1355,home,27002.67,0.0011,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59),0
+CLM101297,3031,auto,7743.07,0.0011,LOW,0,New customer (< 12 months); No police report,0
+CLM103159,3618,fire,24525.01,0.0011,LOW,0,No rule triggered,0
+CLM103105,1908,auto,40831.06,0.0011,LOW,0,Claim amount > 60% of coverage; Coverage changed recently,0
+CLM103529,1360,home,20704.05,0.0011,LOW,0,Coverage changed recently,0
+CLM104983,2206,fire,22939.23,0.0011,LOW,0,Reported > 14 days after incident; Coverage changed recently; Incident at night (23:00-04:59),0
+CLM103668,2277,theft,3288.67,0.001,LOW,0,No police report; No witnesses,0
+CLM101349,2785,theft,9979.77,0.001,LOW,0,No witnesses,0
+CLM103432,1622,fire,16998.91,0.001,LOW,0,No police report; No witnesses,0
+CLM101524,2810,health,1318.18,0.001,LOW,0,New customer (< 12 months); Reported > 14 days after incident,0
+CLM105099,1881,auto,19279.55,0.001,LOW,0,No police report; No witnesses,0
+CLM100404,2497,theft,50246.6,0.001,LOW,0,New customer (< 12 months); Incident at night (23:00-04:59),0
+CLM103817,3408,health,26113.38,0.001,LOW,0,No police report,0
+CLM101364,2664,home,16362.22,0.001,LOW,0,Coverage changed recently,0
+CLM102279,3016,auto,15489.15,0.001,LOW,0,No rule triggered,0
+CLM104209,2819,theft,10657.785,0.001,LOW,0,No police report,0
+CLM100155,2985,auto,7583.21,0.001,LOW,0,No police report; No witnesses,0
+CLM100060,3767,auto,29637.4,0.001,LOW,0,No witnesses,0
+CLM105241,3632,health,30809.48,0.001,LOW,0,Reported > 14 days after incident,0
+CLM105846,1362,health,633.37,0.001,LOW,0,No police report,0
+CLM104666,1921,health,36023.42,0.001,LOW,0,No rule triggered,0
+CLM104098,3381,health,8980.85,0.001,LOW,0,No witnesses,0
+CLM105125,3240,health,1898.81,0.001,LOW,0,No rule triggered,0
+CLM103696,1924,auto,24847.73,0.001,LOW,0,No rule triggered,0
+CLM101719,2551,theft,12045.99,0.0009,LOW,0,New customer (< 12 months); No witnesses,0
+CLM104649,1788,health,19647.92,0.0009,LOW,0,Coverage changed recently; No police report; No witnesses,0
+CLM104236,3834,fire,21605.34,0.0009,LOW,0,No rule triggered,0
+CLM104749,2095,home,6011.55,0.0009,LOW,0,Incident at night (23:00-04:59),0
+CLM103921,2844,home,29790.74,0.0009,LOW,0,Incident at night (23:00-04:59),0
+CLM105665,2388,fire,17333.72,0.0009,LOW,0,No witnesses,0
+CLM102912,2415,home,18551.85,0.0009,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM101151,2514,fire,1893.66,0.0009,LOW,0,New customer (< 12 months); Coverage changed recently; No police report,0
+CLM102249,2270,home,17746.93,0.0009,LOW,0,No witnesses,0
+CLM104306,3217,home,4695.97,0.0009,LOW,0,No rule triggered,0
+CLM104637,2488,home,16003.62,0.0009,LOW,0,No police report,0
+CLM102413,2804,home,10657.785,0.0009,LOW,0,Incident at night (23:00-04:59),0
+CLM100622,1495,auto,9821.97,0.0009,LOW,0,No witnesses,0
+CLM101278,1024,auto,25836.9,0.0009,LOW,0,No witnesses,0
+CLM105301,3979,home,38696.5,0.0009,LOW,0,No rule triggered,0
+CLM105597,3038,auto,16499.54,0.0009,LOW,0,No police report,0
+CLM100532,1467,home,23756.52,0.0008,LOW,0,No rule triggered,0
+CLM102068,1991,auto,1739.12,0.0008,LOW,0,Coverage changed recently; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM105478,1279,health,3006.45,0.0008,LOW,0,No rule triggered,0
+CLM104035,1096,auto,16133.58,0.0008,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104002,1105,health,5729.65,0.0008,LOW,0,No police report,0
+CLM103717,1751,theft,10413.23,0.0008,LOW,0,Coverage changed recently; No police report,0
+CLM100893,3940,auto,5220.23,0.0008,LOW,0,No rule triggered,0
+CLM100623,2250,home,5297.64,0.0008,LOW,0,No rule triggered,0
+CLM103265,2926,health,17580.94,0.0008,LOW,0,No witnesses,0
+CLM100394,3159,auto,10788.99,0.0008,LOW,0,No police report,0
+CLM104882,2495,auto,41663.46,0.0008,LOW,0,No witnesses; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM102668,1230,theft,4931.82,0.0008,LOW,0,No police report,0
+CLM102973,3944,home,16505.15,0.0008,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM100568,2927,auto,1562.92,0.0008,LOW,0,No witnesses,0
+CLM100339,3858,health,15376.99,0.0008,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM102011,2178,health,9519.08,0.0008,LOW,0,No police report; No witnesses,0
+CLM102555,1309,home,9701.45,0.0008,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM100009,1282,auto,1246.49,0.0008,LOW,0,No witnesses,0
+CLM102235,3372,home,15862.97,0.0008,LOW,0,Suspicious wording in description,0
+CLM100214,3210,home,5665.19,0.0008,LOW,0,New customer (< 12 months); No police report; Incident at night (23:00-04:59),0
+CLM104813,2667,home,10657.785,0.0008,LOW,0,No rule triggered,0
+CLM100844,1016,home,8823.76,0.0008,LOW,0,No witnesses,0
+CLM105005,3851,home,15947.17,0.0008,LOW,0,Coverage changed recently; No witnesses; Incident at night (23:00-04:59),0
+CLM103005,2112,auto,2876.97,0.0008,LOW,0,No rule triggered,0
+CLM105015,3811,theft,2328.12,0.0008,LOW,0,Coverage changed recently; No police report,0
+CLM105975,2646,theft,9058.08,0.0008,LOW,0,No rule triggered,0
+CLM105196,3810,auto,4579.66,0.0008,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM100032,1276,theft,34007.44,0.0008,LOW,0,New customer (< 12 months); No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM103636,2621,auto,13200.64,0.0008,LOW,0,No police report,0
+CLM100087,1937,auto,12461.24,0.0008,LOW,0,No police report,0
+CLM102084,1393,auto,27069.2,0.0008,LOW,0,No rule triggered,0
+CLM102868,3581,home,3210.36,0.0008,LOW,0,New customer (< 12 months); Multiple previous claims (>=3),0
+CLM102883,1147,theft,16847.86,0.0008,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM102757,2902,auto,25483.95,0.0008,LOW,0,New customer (< 12 months),0
+CLM102616,3977,home,7399.86,0.0008,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM102598,3905,theft,2968.81,0.0008,LOW,0,Coverage changed recently,0
+CLM101472,2347,auto,18857.12,0.0008,LOW,0,Coverage changed recently; No witnesses,0
+CLM100859,3402,health,3481.73,0.0008,LOW,0,Coverage changed recently; No witnesses,0
+CLM100255,1433,health,3653.53,0.0007,LOW,0,Incident at night (23:00-04:59),0
+CLM101000,3424,home,2386.18,0.0007,LOW,0,Multiple previous claims (>=3),0
+CLM103918,1181,health,7480.25,0.0007,LOW,0,No rule triggered,0
+CLM105825,2600,fire,6629.54,0.0007,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM101002,2674,health,10657.785,0.0007,LOW,0,No witnesses,0
+CLM101287,1703,auto,9612.64,0.0007,LOW,0,Incident at night (23:00-04:59),0
+CLM102139,2200,auto,15853.44,0.0007,LOW,0,Reported > 14 days after incident,0
+CLM105776,2193,home,13680.86,0.0007,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM101809,3877,auto,6221.37,0.0007,LOW,0,No police report,0
+CLM101181,3782,auto,3436.17,0.0007,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM101791,3643,home,15652.61,0.0007,LOW,0,No rule triggered,0
+CLM100276,2401,home,36314.73,0.0007,LOW,0,Coverage changed recently; No witnesses; Incident at night (23:00-04:59),0
+CLM100292,3861,home,15140.82,0.0007,LOW,0,No rule triggered,0
+CLM103331,3552,auto,7901.2,0.0007,LOW,0,No rule triggered,0
+CLM100867,3513,auto,5438.57,0.0007,LOW,0,No witnesses,0
+CLM101130,2220,theft,2246.58,0.0007,LOW,0,No witnesses,0
+CLM102833,2637,theft,12574.49,0.0007,LOW,0,No police report; No witnesses,0
+CLM100832,2359,home,10743.7,0.0007,LOW,0,No witnesses,0
+CLM101056,2348,theft,9190.89,0.0007,LOW,0,Incident at night (23:00-04:59),0
+CLM102409,1079,theft,1442.7,0.0007,LOW,0,No police report,0
+CLM104746,3297,home,13576.11,0.0007,LOW,0,No witnesses,0
+CLM102956,1296,health,19249.43,0.0007,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104027,2323,health,14149.96,0.0007,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM101610,3329,health,10444.19,0.0007,LOW,0,No witnesses,0
+CLM103547,3646,health,6121.34,0.0006,LOW,0,No rule triggered,0
+CLM104815,1892,auto,4944.71,0.0006,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104577,1599,home,11425.79,0.0006,LOW,0,No rule triggered,0
+CLM101614,1180,auto,5569.72,0.0006,LOW,0,No police report; No witnesses,0
+CLM105579,2156,home,6938.07,0.0006,LOW,0,No police report,0
+CLM103278,3978,health,12628.57,0.0006,LOW,0,No police report,0
+CLM102697,2252,auto,35028.57,0.0006,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59),0
+CLM100575,2120,auto,37109.65,0.0006,LOW,0,Suspicious wording in description,0
+CLM104215,3978,health,4811.67,0.0006,LOW,0,No rule triggered,0
+CLM103652,2229,auto,16469.94,0.0006,LOW,0,New customer (< 12 months); No police report,0
+CLM100318,3816,health,45536.27,0.0006,LOW,0,No police report; No witnesses,0
+CLM104115,2424,home,11208.73,0.0006,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM101014,2557,auto,19862.36,0.0006,LOW,0,No police report; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM102403,2652,fire,3537.19,0.0006,LOW,0,No rule triggered,0
+CLM102449,1515,health,16134.51,0.0006,LOW,0,Multiple previous claims (>=3); Suspicious wording in description,0
+CLM101651,1054,auto,56603.88,0.0006,LOW,0,No police report,0
+CLM103635,2417,auto,17763.28,0.0006,LOW,0,Incident at night (23:00-04:59),0
+CLM100004,2299,theft,12339.19,0.0006,LOW,0,Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM103917,3549,auto,7233.64,0.0006,LOW,0,Coverage changed recently; Incident at night (23:00-04:59),0
+CLM101345,3992,health,4429.33,0.0006,LOW,0,New customer (< 12 months); No police report; Incident at night (23:00-04:59),0
+CLM102266,3050,home,8623.26,0.0006,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM103941,1936,home,18574.23,0.0006,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM101862,3543,auto,23330.33,0.0005,LOW,0,Reported > 14 days after incident,0
+CLM104521,3094,fire,6819.01,0.0005,LOW,0,No rule triggered,0
+CLM101146,2594,home,10672.74,0.0005,LOW,0,Incident at night (23:00-04:59),0
+CLM100983,2943,health,16160.15,0.0005,LOW,0,New customer (< 12 months),0
+CLM101950,3746,auto,11185.28,0.0005,LOW,0,Incident at night (23:00-04:59),0
+CLM105823,1447,fire,11234.59,0.0005,LOW,0,No rule triggered,0
+CLM104030,2625,fire,3958.87,0.0005,LOW,0,No rule triggered,0
+CLM104896,3551,auto,21314.97,0.0005,LOW,0,No rule triggered,0
+CLM100086,1291,auto,8963.19,0.0005,LOW,0,Incident at night (23:00-04:59); Suspicious wording in description,0
+CLM105168,2058,health,21147.7,0.0005,LOW,0,No rule triggered,0
+CLM103048,1508,home,2557.51,0.0005,LOW,0,No witnesses,0
+CLM101217,3197,theft,2683.64,0.0005,LOW,0,No rule triggered,0
+CLM103664,2539,health,3811.28,0.0005,LOW,0,Incident at night (23:00-04:59),0
+CLM102310,1841,home,6525.28,0.0005,LOW,0,No rule triggered,0
+CLM104356,3895,health,13931.71,0.0005,LOW,0,No rule triggered,0
+CLM101625,3979,fire,2536.44,0.0005,LOW,0,No police report; No witnesses,0
+CLM101572,3202,home,4377.54,0.0005,LOW,0,No police report; Suspicious wording in description,0
+CLM104240,2006,auto,12510.26,0.0005,LOW,0,No police report,0
+CLM102061,2685,theft,8458.36,0.0005,LOW,0,Incident at night (23:00-04:59),0
+CLM104776,2006,theft,9570.3,0.0005,LOW,0,Incident at night (23:00-04:59),0
+CLM101012,1737,auto,35870.59,0.0005,LOW,0,New customer (< 12 months),0
+CLM104889,2444,auto,8125.88,0.0005,LOW,0,No witnesses,0
+CLM105216,3359,theft,12172.87,0.0005,LOW,0,No rule triggered,0
+CLM102787,1179,fire,15619.25,0.0005,LOW,0,No witnesses,0
+CLM102796,3613,auto,1977.52,0.0005,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM101502,1687,fire,7114.62,0.0005,LOW,0,No witnesses,0
+CLM104852,1318,auto,5552.89,0.0005,LOW,0,No rule triggered,0
+CLM102711,1071,fire,15916.96,0.0005,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM103540,3204,fire,12076.04,0.0004,LOW,0,Reported > 14 days after incident; No witnesses,0
+CLM104280,2436,home,3507.28,0.0004,LOW,0,Coverage changed recently; No police report,0
+CLM102621,2177,health,16656.44,0.0004,LOW,0,Incident at night (23:00-04:59),0
+CLM104809,3417,auto,4675.19,0.0004,LOW,0,No witnesses,0
+CLM102828,2879,auto,5265.71,0.0004,LOW,0,No rule triggered,0
+CLM101617,2521,auto,19575.38,0.0004,LOW,0,No rule triggered,0
+CLM105140,2131,fire,7105.01,0.0004,LOW,0,No police report,0
+CLM101101,2407,home,2638.34,0.0004,LOW,0,Coverage changed recently,0
+CLM105738,1673,auto,16025.02,0.0004,LOW,0,No rule triggered,0
+CLM100753,3808,theft,16638.21,0.0004,LOW,0,Coverage changed recently,0
+CLM104655,1594,health,1045.69,0.0004,LOW,0,No police report,0
+CLM105778,3121,theft,9492.23,0.0004,LOW,0,No rule triggered,0
+CLM102783,3512,theft,4683.62,0.0004,LOW,0,No police report,0
+CLM103094,3729,theft,11787.27,0.0004,LOW,0,No rule triggered,0
+CLM101001,3210,health,10777.85,0.0004,LOW,0,No rule triggered,0
+CLM105203,3002,fire,5635.96,0.0004,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM104539,3608,fire,7761.02,0.0004,LOW,0,Reported > 14 days after incident; No police report,0
+CLM102682,2169,home,7375.72,0.0004,LOW,0,No police report,0
+CLM105632,2564,health,17591.79,0.0004,LOW,0,New customer (< 12 months); No witnesses,0
+CLM100559,3553,health,66147.56,0.0004,LOW,0,Claim amount > 60% of coverage; No witnesses,0
+CLM100637,1890,auto,15630.43,0.0004,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM103409,2421,fire,14126.84,0.0004,LOW,0,No rule triggered,0
+CLM104239,1720,home,3364.69,0.0004,LOW,0,No rule triggered,0
+CLM101451,1123,fire,17654.51,0.0004,LOW,0,Incident at night (23:00-04:59),0
+CLM101818,1406,auto,3238.05,0.0004,LOW,0,No rule triggered,0
+CLM103992,1420,health,8552.02,0.0004,LOW,0,Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM101642,2341,health,6834.7,0.0004,LOW,0,No witnesses,0
+CLM100185,2338,health,8682.88,0.0004,LOW,0,Incident at night (23:00-04:59),0
+CLM104559,2945,auto,10234.62,0.0004,LOW,0,Incident at night (23:00-04:59),0
+CLM105012,2796,health,2915.56,0.0004,LOW,0,No rule triggered,0
+CLM102709,3623,theft,3618.14,0.0004,LOW,0,Suspicious wording in description,0
+CLM105580,2617,theft,5998.87,0.0004,LOW,0,No police report,0
+CLM104642,3858,home,9749.94,0.0004,LOW,0,New customer (< 12 months); No police report,0
+CLM105688,3275,auto,30053.78,0.0004,LOW,0,Suspicious wording in description,0
+CLM104456,2773,health,10657.785,0.0003,LOW,0,No rule triggered,0
+CLM105187,1373,auto,7514.6,0.0003,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM100176,3151,health,21961.94,0.0003,LOW,0,No police report; No witnesses,0
+CLM103153,3379,home,3984.7,0.0003,LOW,0,Reported > 14 days after incident; No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM102979,2426,auto,18811.57,0.0003,LOW,0,No rule triggered,0
+CLM105954,3040,health,5508.92,0.0003,LOW,0,Coverage changed recently,0
+CLM102329,1440,auto,4915.78,0.0003,LOW,0,Multiple previous claims (>=3),0
+CLM105024,3616,home,9009.15,0.0003,LOW,0,No rule triggered,0
+CLM104981,3877,theft,8358.33,0.0003,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM102756,3652,fire,38926.42,0.0003,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),0
+CLM101476,2471,health,10657.785,0.0003,LOW,0,Coverage changed recently,0
+CLM103687,3823,health,3689.93,0.0003,LOW,0,No rule triggered,0
+CLM101493,1999,auto,2768.98,0.0003,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM105896,1063,auto,20350.05,0.0003,LOW,0,No rule triggered,0
+CLM104878,3014,health,18213.51,0.0003,LOW,0,No rule triggered,0
+CLM104635,3292,health,1454.42,0.0003,LOW,0,Reported > 14 days after incident; No witnesses,0
+CLM102978,1848,home,5595.56,0.0003,LOW,0,Coverage changed recently,0
+CLM105291,3644,fire,8796.52,0.0003,LOW,0,No witnesses,0
+CLM102306,1977,home,1371.08,0.0003,LOW,0,No police report; No witnesses,0
+CLM101595,1496,theft,1717.43,0.0003,LOW,0,No police report,0
+CLM102726,1409,health,5220.29,0.0003,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM101319,2190,theft,8696.73,0.0003,LOW,0,No rule triggered,0
+CLM101230,3464,auto,18488.52,0.0003,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM104960,2145,theft,7125.37,0.0003,LOW,0,New customer (< 12 months); No witnesses,0
+CLM104571,1280,auto,3964.45,0.0003,LOW,0,No rule triggered,0
+CLM102959,2433,auto,9609.61,0.0003,LOW,0,No rule triggered,0
+CLM102064,2768,auto,2247.57,0.0003,LOW,0,No rule triggered,0
+CLM104251,2155,home,8988.97,0.0003,LOW,0,Incident at night (23:00-04:59),0
+CLM101500,2589,health,8581.53,0.0003,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM104253,2017,fire,6198.88,0.0003,LOW,0,No rule triggered,0
+CLM102345,1772,theft,15346.53,0.0003,LOW,0,Incident at night (23:00-04:59),0
+CLM102770,2982,home,1107.18,0.0003,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM105671,2929,home,2728.84,0.0003,LOW,0,No witnesses,0
+CLM100468,1544,health,1615.79,0.0003,LOW,0,No police report,0
+CLM104281,3686,home,16981.53,0.0003,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM105466,1101,fire,8378.48,0.0003,LOW,0,Multiple previous claims (>=3),0
+CLM105474,1171,theft,30399.71,0.0003,LOW,0,No witnesses,0
+CLM104040,1986,health,16385.73,0.0003,LOW,0,No police report,0
+CLM100493,2809,fire,9498.29,0.0003,LOW,0,No rule triggered,0
+CLM105924,3734,health,3435.12,0.0003,LOW,0,Coverage changed recently,0
+CLM100570,3846,fire,30222.76,0.0003,LOW,0,No rule triggered,0
+CLM102057,3215,fire,3643.7,0.0002,LOW,0,No rule triggered,0
+CLM100377,3240,health,1516.02,0.0002,LOW,0,Coverage changed recently; No police report,0
+CLM105785,2852,home,19508.28,0.0002,LOW,0,No rule triggered,0
+CLM100541,1166,home,13255.08,0.0002,LOW,0,No rule triggered,0
+CLM101359,2096,home,34018.46,0.0002,LOW,0,No rule triggered,0
+CLM102002,2192,home,6781.55,0.0002,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59),0
+CLM102678,2738,home,4128.74,0.0002,LOW,0,Multiple previous claims (>=3),0
+CLM104823,3923,home,4647.45,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM100871,1605,auto,4375.67,0.0002,LOW,0,Coverage changed recently; No police report; No witnesses,0
+CLM104674,3497,auto,12484.06,0.0002,LOW,0,No rule triggered,0
+CLM101042,2245,auto,20698.07,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM101324,3599,fire,19844.72,0.0002,LOW,0,Coverage changed recently,0
+CLM103665,2351,auto,6203.84,0.0002,LOW,0,No police report; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM100876,2619,fire,6924.55,0.0002,LOW,0,No police report,0
+CLM101118,3169,home,16039.28,0.0002,LOW,0,New customer (< 12 months); Reported > 14 days after incident; No police report; No witnesses,0
+CLM100673,1285,home,76709.25,0.0002,LOW,0,No rule triggered,0
+CLM100612,3352,auto,7359.13,0.0002,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM102969,2912,fire,19780.09,0.0002,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59),0
+CLM104116,1055,health,34801.95,0.0002,LOW,0,Claim amount > 60% of coverage,0
+CLM102094,1487,health,11906.51,0.0002,LOW,0,No witnesses,0
+CLM100182,2491,auto,19583.5,0.0002,LOW,0,Coverage changed recently; No witnesses,0
+CLM103896,2597,health,1849.04,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM104501,2601,auto,4101.11,0.0002,LOW,0,No police report,0
+CLM102671,3566,health,83960.91,0.0002,LOW,0,No rule triggered,0
+CLM105748,3766,health,8149.18,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM102141,3625,health,10742.32,0.0002,LOW,0,No police report; No witnesses; Multiple previous claims (>=3),0
+CLM104601,3846,health,7438.76,0.0002,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM105581,3507,health,10707.31,0.0002,LOW,0,No rule triggered,0
+CLM104350,2825,theft,6664.3,0.0002,LOW,0,Suspicious wording in description,0
+CLM102188,2385,auto,3689.73,0.0002,LOW,0,No rule triggered,0
+CLM101413,3375,health,12899.26,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM102307,1460,auto,5491.22,0.0002,LOW,0,No rule triggered,0
+CLM100048,3033,fire,10131.38,0.0002,LOW,0,No police report; No witnesses,0
+CLM102265,1285,theft,15665.44,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM100849,2817,health,7414.85,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM105664,2639,auto,10657.785,0.0002,LOW,0,No police report; No witnesses; Incident at night (23:00-04:59),0
+CLM100686,2220,home,16340.92,0.0002,LOW,0,No police report,0
+CLM100144,3977,fire,6654.04,0.0002,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM103314,2208,home,5396.99,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM104100,1275,auto,8181.75,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM101634,2245,theft,14685.78,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM104545,3263,auto,15514.38,0.0002,LOW,0,No police report,0
+CLM102454,3490,fire,4796.04,0.0002,LOW,0,No rule triggered,0
+CLM102204,2363,auto,11424.42,0.0002,LOW,0,Coverage changed recently; No police report; Incident at night (23:00-04:59),0
+CLM100106,3341,auto,43292.17,0.0002,LOW,0,Incident at night (23:00-04:59),0
+CLM102878,3613,auto,10657.785,0.0002,LOW,0,Coverage changed recently,0
+CLM105590,1245,fire,20559.64,0.0001,LOW,0,Coverage changed recently,0
+CLM105718,1019,fire,10657.785,0.0001,LOW,0,Incident at night (23:00-04:59),0
+CLM103581,3295,auto,26833.39,0.0001,LOW,0,No police report,0
+CLM105842,2663,auto,5829.19,0.0001,LOW,0,No police report,0
+CLM101260,1798,auto,16104.53,0.0001,LOW,0,Multiple previous claims (>=3),0
+CLM104003,2339,home,3659.13,0.0001,LOW,0,No witnesses,0
+CLM102155,2469,auto,6561.35,0.0001,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM103454,3454,fire,8732.88,0.0001,LOW,0,No rule triggered,0
+CLM102789,3504,theft,33468.56,0.0001,LOW,0,Incident at night (23:00-04:59),0
+CLM101659,1760,auto,3984.22,0.0001,LOW,0,Reported > 14 days after incident,0
+CLM105869,3000,health,18197.49,0.0001,LOW,0,Incident at night (23:00-04:59),0
+CLM103304,1355,health,30192.16,0.0001,LOW,0,Reported > 14 days after incident; Incident at night (23:00-04:59),0
+CLM104278,3200,health,8220.81,0.0001,LOW,0,No rule triggered,0
+CLM101893,3130,home,7352.15,0.0001,LOW,0,No rule triggered,0
+CLM105958,2835,home,20313.33,0.0001,LOW,0,Reported > 14 days after incident; No witnesses,0
+CLM102356,2234,health,7499.41,0.0001,LOW,0,No rule triggered,0
+CLM105609,1357,health,5287.42,0.0001,LOW,0,No police report; Multiple previous claims (>=3),0
+CLM100481,3488,auto,17775.62,0.0001,LOW,0,No rule triggered,0
+CLM105096,2846,health,37819.97,0.0001,LOW,0,No rule triggered,0
+CLM105832,3466,auto,34019.94,0.0001,LOW,0,New customer (< 12 months); No police report; No witnesses,0
+CLM100084,2889,fire,3458.99,0.0001,LOW,0,No police report,0
+CLM105868,3774,auto,5093.02,0.0001,LOW,0,Incident at night (23:00-04:59),0
+CLM101491,2468,health,17469.46,0.0001,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM101585,1952,health,7624.8,0.0001,LOW,0,No police report; No witnesses,0
+CLM100305,1420,auto,12224.13,0.0001,LOW,0,No police report; No witnesses,0
+CLM102867,1472,theft,24917.95,0.0001,LOW,0,No rule triggered,0
+CLM100524,1956,auto,5666.93,0.0001,LOW,0,No witnesses,0
+CLM103497,2428,health,4503.74,0.0001,LOW,0,No witnesses,0
+CLM100044,1203,home,17810.43,0.0001,LOW,0,Reported > 14 days after incident,0
+CLM102840,2313,auto,17124.97,0.0001,LOW,0,No rule triggered,0
+CLM100129,2904,health,17429.43,0.0001,LOW,0,No rule triggered,0
+CLM102351,3250,auto,10589.65,0.0001,LOW,0,Incident at night (23:00-04:59),0
+CLM104782,2029,auto,3221.52,0.0001,LOW,0,No rule triggered,0
+CLM101175,2016,fire,7367.71,0.0001,LOW,0,Incident at night (23:00-04:59); Multiple previous claims (>=3),0
+CLM103567,1460,theft,5687.05,0.0001,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM103169,2818,auto,12044.6,0.0001,LOW,0,No rule triggered,0
+CLM104699,1071,home,6992.49,0.0001,LOW,0,Coverage changed recently,0
+CLM101787,1296,health,35167.17,0.0001,LOW,0,No police report; Suspicious wording in description,0
+CLM101987,1635,home,57367.23,0.0001,LOW,0,Multiple previous claims (>=3),0
+CLM105319,1677,health,11821.41,0.0001,LOW,0,No rule triggered,0
+CLM102527,3845,health,78033.03,0.0001,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM105063,2917,auto,2449.99,0.0001,LOW,0,No rule triggered,0
+CLM100692,3794,health,10336.6,0.0001,LOW,0,No police report; Incident at night (23:00-04:59),0
+CLM100211,3150,health,21571.64,0.0001,LOW,0,No police report,0
+CLM102850,1584,health,20001.59,0.0001,LOW,0,No witnesses; Incident at night (23:00-04:59),0
+CLM104839,3794,auto,18769.58,0.0,LOW,0,No police report,0
